@@ -1,7 +1,7 @@
 ---
 #title: "About"
 #permalink: "/about/"
-layout: default
+layout: page
 ---
 
 I am a Ph.D. candidate at
