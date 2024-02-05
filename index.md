@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "This is Bruce"
 #permalink: /:title/
 layout: page
 ---
