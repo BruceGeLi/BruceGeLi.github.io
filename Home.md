@@ -70,42 +70,45 @@ Jan 2023, one paper got accepted by IEEE RAL.
 <img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
 
 Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic
-Reinforcement
-Learning. [arxiv](https://arxiv.org/abs/2401.11437)   |   [OpenReview](https://openreview.net/forum?id=mnipav175N)  |  [GitHub](https://github.com/BruceGeLi/TCE_RL)
+Reinforcement Learning. 
 
 **Ge Li**, Hongyi Zhou, Dominik Roth, Serge Thilges, Fabian Otto, Rudolf
 Lioutikov, Gerhard Neumann,
 in International Conference on Learning Representations (ICLR), 2024
 
+[arxiv](https://arxiv.org/abs/2401.11437)   |   [OpenReview](https://openreview.net/forum?id=mnipav175N)  |  [GitHub](https://github.com/BruceGeLi/TCE_RL)
+
 We propose a novel RL framework that integrates step-based information into the
 policy updates of Episodic RL, while preserving the broad exploration scope,
 movement correlation modeling and trajectory smoothness.
 
-<br><br><br>
+<br><br>
 
 [//]: # (MP3)
-<img src="/assets/images/mp3.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
+<img src="/assets/images/mp3.png" alt="Alt text" style="float: right; margin-left: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
 
-MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto, Onur Celik, **Ge Li**, Rudolf Lioutikov, Gerhard Neumann
-, in CoRL 2023 Workshop on Learning Effective Abstractions for Planning (LEAP)
-Primitives. [arxiv](https://arxiv.org/pdf/2306.12729.pdf)   |  [Website](https://intuitive-robots.github.io/mp3_website/)
+MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto, Onur Celik, **Ge Li**, Rudolf Lioutikov, Gerhard Neumann,
+in CoRL 2023 Workshop on Learning Effective Abstractions for Planning (LEAP). 
+
+[arxiv](https://arxiv.org/pdf/2306.12729.pdf)   |  [Website](https://intuitive-robots.github.io/mp3_website/)
 
 We enable a new Episodic RL framework that allows trajectory replanning in deep RL, which allows the agent to react with changing goal and dynamic perturbation.  
 
-<br><br><br>
+<br><br>
 
 [//]: # (ProDMP)
 <img src="/assets/images/prodmp.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
 
 ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement
-Primitives. [Paper](https://ieeexplore.ieee.org/document/10050558)   |  [Poster](https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link)  |  [GitHub](https://github.com/ALRhub/ProDMP_RAL)   |  [YouTube](https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be)
+Primitives. 
 
 **Ge Li**, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard
-Neumann,
-in IEEE Robotics and Automation Letters (RAL), 2023.
+Neumann, in IEEE Robotics and Automation Letters (RAL), 2023.
+
+[Paper](https://ieeexplore.ieee.org/document/10050558)   |  [Poster](https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link)  |  [GitHub](https://github.com/ALRhub/ProDMP_RAL)   |  [YouTube](https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be)
 
 We unified the Dynamic Movement Primitives and the Probabilistic Movement
-Primitives into one model, and achieve smooth trajectory generation, goal-attractor
+Primitives into one model, and achieved smooth trajectory generation, goal-attractor
 convergence, correlation analysis, non-linear conditioning, and online
 re-planing in one framework.
 
