@@ -11,8 +11,7 @@ layout: page
 I am a Ph.D. candidate at
 the [Autonomous Learning Robots](https://alr.iar.kit.edu/) (ALR) Lab of
 the [Karlsruhe Institute of Technology](https://www.kit.edu/english/), under
-the supervision of Prof. Gerhard
-Neumann. [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
+the supervision of [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
 In addition, I collaborate closely
 with [T.T. Prof. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/).
 <br>
