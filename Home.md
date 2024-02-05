@@ -67,7 +67,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
 # Publications
 
 [//]: # (TCE)
-<img src="/assets/images/TCE_abstract.png" alt="TCE" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />
+<img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
 
 Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic
 Reinforcement
@@ -81,16 +81,21 @@ We propose a novel RL framework that integrates step-based information into the
 policy updates of Episodic RL, while preserving the broad exploration scope,
 movement correlation modeling and trajectory smoothness.
 
-[//]: # (MP3)
-<img src="/assets/images/mp3.png" alt="MP3" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />
+<br><br><br>
 
-MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto, Onur Celik, Ge Li, Rudolf Lioutikov, Gerhard Neumann
+[//]: # (MP3)
+<img src="/assets/images/mp3.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
+
+MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto, Onur Celik, **Ge Li**, Rudolf Lioutikov, Gerhard Neumann
 , in CoRL 2023 Workshop on Learning Effective Abstractions for Planning (LEAP)
 Primitives. [arxiv](https://arxiv.org/pdf/2306.12729.pdf)   |  [Website](https://intuitive-robots.github.io/mp3_website/)
 
+We enable a new Episodic RL framework that allows trajectory replanning in deep RL, which allows the agent to react with changing goal and dynamic perturbation.  
+
+<br><br><br>
 
 [//]: # (ProDMP)
-<img src="/assets/images/prodmp.png" alt="ProDMP" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />
+<img src="/assets/images/prodmp.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
 
 ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement
 Primitives. [Paper](https://ieeexplore.ieee.org/document/10050558)   |  [Poster](https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link)  |  [GitHub](https://github.com/ALRhub/ProDMP_RAL)   |  [YouTube](https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be)
