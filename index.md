@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: "/home/"
+permalink: /:title/
 layout: page
 ---
 
