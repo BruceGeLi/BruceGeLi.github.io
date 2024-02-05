@@ -4,8 +4,6 @@
 layout: page
 ---
 
-# Hi, this is Bruce
-
 <img src="/assets/images/bruce.jpg" alt="Alt text" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />
 
 I am a Ph.D. candidate at
@@ -68,10 +66,12 @@ Jan 2023, one paper got accepted by IEEE RAL.
 
 # Publications
 
+[//]: # (TCE)
 <img src="/assets/images/TCE_abstract.png" alt="TCE" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />
 
 Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic
-Reinforcement Learning. [arxiv](https://arxiv.org/abs/2401.11437)   |   [OpenReview](https://openreview.net/forum?id=mnipav175N)  |  [GitHub](https://github.com/BruceGeLi/TCE_RL)
+Reinforcement
+Learning. [arxiv](https://arxiv.org/abs/2401.11437)   |   [OpenReview](https://openreview.net/forum?id=mnipav175N)  |  [GitHub](https://github.com/BruceGeLi/TCE_RL)
 
 **Ge Li**, Hongyi Zhou, Dominik Roth, Serge Thilges, Fabian Otto, Rudolf
 Lioutikov, Gerhard Neumann,
@@ -81,7 +81,21 @@ We propose a novel RL framework that integrates step-based information into the
 policy updates of Episodic RL, while preserving the broad exploration scope,
 movement correlation modeling and trajectory smoothness.
 
-  
+[//]: # (ProDMP)
+<img src="/assets/images/prodmp.png" alt="ProDMP" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />
+
+ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement
+Primitives. [Paper](https://ieeexplore.ieee.org/document/10050558)   |  [Poster](https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link)  |  [GitHub](https://github.com/ALRhub/ProDMP_RAL)   |  [YouTube](https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be)
+
+**Ge Li**, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard
+Neumann,
+in IEEE Robotics and Automation Letters (RAL), 2023.
+
+We unified the Dynamic Movement Primitives and the Probabilistic Movement
+Primitives into one model, and achieve smooth trajectory generation, goal-attractor
+convergence, correlation analysis, non-linear conditioning, and online
+re-planing in one framework.
+
 
 [//]: # (<img src="./assets/images/bruce.jpg" alt="Alt text" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />)
 
