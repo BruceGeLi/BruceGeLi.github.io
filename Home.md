@@ -4,7 +4,7 @@
 layout: page
 ---
 
-<img src="/assets/images/bruce.jpg" alt="Alt text" style="float: left; margin-right: '3%'; margin-top: '1%'; margin-bottom: '2%';" width="40%" height="40%" />
+<img src="/assets/images/bruce.jpg" alt="Alt text" style="float: left; margin-right: '30%'; margin-top: '1%'; margin-bottom: '2%';" width="40%" height="40%" />
 
 I am a Ph.D. candidate at
 the [Autonomous Learning Robots](https://alr.iar.kit.edu/) (ALR) Lab of
