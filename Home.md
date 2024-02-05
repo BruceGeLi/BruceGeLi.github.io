@@ -67,7 +67,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
 # Publications
 
 [//]: # (TCE)
-<img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="30%" height="30%" />
+<img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 30px; margin-bottom: 20px;" width="30%" height="30%" />
 
 Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic
 Reinforcement Learning. 
@@ -85,7 +85,7 @@ movement correlation modeling and trajectory smoothness.
 <br><br>
 
 [//]: # (MP3)
-<img src="/assets/images/mp3.png" alt="Alt text" style="float: right; margin-left: 30px; margin-top: 10px; margin-bottom: 20px;" width="30%" height="30%" />
+<img src="/assets/images/mp3.png" alt="Alt text" style="float: right; margin-left: 30px; margin-bottom: 20px;" width="30%" height="30%" />
 
 MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto, Onur Celik, **Ge Li**, Rudolf Lioutikov, Gerhard Neumann,
 in CoRL 2023 Workshop on Learning Effective Abstractions for Planning (LEAP). 
@@ -97,7 +97,7 @@ We enable a new Episodic RL framework that allows trajectory replanning in deep 
 <br><br>
 
 [//]: # (ProDMP)
-<img src="/assets/images/prodmp.png" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="30%" height="30%" />
+<img src="/assets/images/prodmp.png" alt="Alt text" style="float: left; margin-right: 30px; margin-bottom: 20px;" width="30%" height="30%" />
 
 ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement
 Primitives. 
