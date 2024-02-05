@@ -6,7 +6,7 @@ layout: page
 
 <img src="./assets/images/bruce.jpg" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 10px;" width="300" height="300" />
 <img src="./assets/images/bruce.jpg" width="300" height="300" />
-# <img src='./web_assets/Table_Tennis.gif' width="200" />
+<img src='/assets/images/bruce.jpg' width="200" />
 
 I am a Ph.D. candidate at
 the [Autonomous Learning Robots](https://alr.iar.kit.edu/) (ALR) Lab of
