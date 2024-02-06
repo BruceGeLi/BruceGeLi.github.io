@@ -133,7 +133,7 @@ re-planing in one framework.
         ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement Primitives.
     </p>
     <p>
-        <strong>Ge Li<strong>, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard Neumann, in IEEE Robotics and Automation Letters (RAL), 2023.
+        <strong>Ge Li</strong>, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard Neumann, in IEEE Robotics and Automation Letters (RAL), 2023.
     </p>
     <p>
         See:
@@ -165,7 +165,7 @@ re-planing in one framework.
         Specializing Versatile Skill Libraries using Local Mixture of Experts
     </p>
     <p>
-        Onur Celik, Dongzhuoran Zhou, <strong>Ge Li<strong>, Philipp Becker, Gerhard Neumann, 
+        Onur Celik, Dongzhuoran Zhou, <strong>Ge Li</strong>, Philipp Becker, Gerhard Neumann, 
         in Conference on Robot Learning, 2021. 
     </p>
     <p>
