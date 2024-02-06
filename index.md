@@ -78,6 +78,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
     <a href="/assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/TCE_abstract.png" alt="TCE" />
     </a>
+    <a href="/assets/images/TCE_cov.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/TCE_cov.png" alt="TCE" />
+    </a>
   </div>
   <div style="flex: 2;">
     <p>
