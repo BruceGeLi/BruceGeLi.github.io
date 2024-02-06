@@ -83,7 +83,6 @@ Reinforcement Learning.
 **Ge Li**, Hongyi Zhou, Dominik Roth, Serge Thilges, Fabian Otto, Rudolf
 Lioutikov, Gerhard Neumann,
 in International Conference on Learning Representations (ICLR), 2024.
-
 See: [arxiv](https://arxiv.org/abs/2401.11437)   |   [OpenReview](https://openreview.net/forum?id=mnipav175N)  |  [GitHub](https://github.com/BruceGeLi/TCE_RL)
 
 We propose a novel RL framework that integrates step-based information into the
