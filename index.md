@@ -128,6 +128,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
         See:
         <a href="https://arxiv.org/pdf/2306.12729.pdf">arxiv</a> | 
         <a href="https://intuitive-robots.github.io/mp3_website/">Website</a>
+        <a href="https://drive.google.com/file/d/1ifTGzw1Eocg8YKo4wRiBPtSBUx0dvfzS/view?usp=sharing">Poster</a>
     </p>
     <p>
         We enable a new Episodic RL framework that allows trajectory replanning in deep
