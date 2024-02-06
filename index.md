@@ -181,6 +181,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
     <a href="/assets/images/svsl.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/svsl.png" alt="SVSL"/> 
     </a>
+    <a href="/assets/images/svsl_obj.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/svsl_obj.png" alt="SVSL"/> 
+    </a>
   </div>
   <div style="flex: 2;">
     <p>
