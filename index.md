@@ -74,9 +74,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
 
 [//]: # (TCE)
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; padding-top: 20px;">
     <a href="/assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TCE_abstract.png" alt="MP3" />
+    <img src="./assets/images/TCE_abstract.png" alt="TCE" />
     </a>
   </div>
   <div style="flex: 2;">
@@ -105,7 +105,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
 
 [//]: # (MP3)
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; padding-top: 20px;">
     <a href="/assets/images/mp3.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/mp3.png" alt="MP3" />
     </a>
@@ -136,7 +136,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
 
 [//]: # (ProDMP)
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; padding-top: 20px;">
     <a href="/assets/images/prodmp.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/prodmp.png" alt="ProDMP" />
     </a>
@@ -168,7 +168,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
 
 [//]: # (SVSL)
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; padding-top: 20px;">
     <a href="/assets/images/svsl.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/svsl.png" alt="SVSL"/> 
     </a>
