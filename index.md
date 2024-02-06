@@ -143,6 +143,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
     <a href="/assets/images/prodmp.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/prodmp.png" alt="ProDMP" />
     </a>
+    <a href="/assets/images/prodmp_structure.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/prodmp_structure.png" alt="ProDMP" />
+    </a>
   </div>
   <div style="flex: 2;">
     <p>
