@@ -102,7 +102,7 @@ RL, which allows the agent to react with changing goal and dynamic perturbation.
 
 <br><br>
 
-[//]: # (ProDMP)
+
 <img src="/assets/images/prodmp.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 20px;" width="40%" height="40%" />
 
 ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement
@@ -120,26 +120,44 @@ re-planing in one framework.
 
 <br><br>
 
+
+[//]: # (ProDMP)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="/assets/images/prodmp.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/prodmp.png" alt="ProDMP" />
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement Primitives.
+    </p>
+    <p>
+        <strong>Ge Li<strong>, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard Neumann, in IEEE Robotics and Automation Letters (RAL), 2023.
+    </p>
+    <p>
+        See:
+        <a href="https://ieeexplore.ieee.org/document/10050558">Paper</a> | 
+        <a href="https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link">Poster</a> | 
+        <a href="https://github.com/ALRhub/ProDMP_RAL">GitHub</a> |  
+        <a href="https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be">YouTube</a> 
+    </p>
+    <p>
+        We unified the Dynamic Movement Primitives and the Probabilistic Movement
+        Primitives into one model, and achieved smooth trajectory generation,
+        goal-attractor convergence, correlation analysis, non-linear conditioning, and online
+        re-planing in one framework.
+    </p>
+  </div>
+</div>
+
+<br><br>
+
 [//]: # (SVSL)
-<a href="/assets/images/svsl.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/svsl.png" alt="Alt text" style="float: right; margin-left: 20px; margin-bottom: 20px;" width="40%" height="40%" />
-
-Specializing Versatile Skill Libraries using Local Mixture of Experts
-
-Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann, in
-Conference on Robot Learning, 2021.
-See: [Paper](https://proceedings.mlr.press/v164/celik22a/celik22a.pdf)  |  [YouTube](https://www.youtube.com/watch?v=KQ0ZA-vPCKk&t=478s)  |  [OpenReview](https://openreview.net/forum?id=j3Rguo81Yi_)
-
-We developed a mixture of experts RL framework to learn versatile skills
-given the same task, such as forehand and backhand strikes in playing table
-tennis. Our
-method is able to assign policy experts to their corresponding context domains
-and automatically add or delete these experts when necessary.
-
-[//]: # (SVSL2)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <a href="/assets/images/svsl.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/svsl.png" alt="Alt text" style="float: right; margin-left: 20px; margin-bottom: 20px;" width="40%" height="40%" />
+    <img src="/assets/images/svsl.png" alt="SVSL"/> 
     </a>
   </div>
   <div style="flex: 2;">
@@ -147,7 +165,7 @@ and automatically add or delete these experts when necessary.
         Specializing Versatile Skill Libraries using Local Mixture of Experts
     </p>
     <p>
-        Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann, 
+        Onur Celik, Dongzhuoran Zhou, <strong>Ge Li<strong>, Philipp Becker, Gerhard Neumann, 
         in Conference on Robot Learning, 2021. 
     </p>
     <p>
