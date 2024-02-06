@@ -121,13 +121,13 @@ Jan 2023, one paper got accepted by IEEE RAL.
         MP3: Movement Primitive-Based (Re-) Planning Policies
     </p>
     <p>
-        Hongyi Zhou, Fabian Otto, Onur Celik, <strong>Ge Li</strong>, Rudolf Lioutikov, Gerhard Neumann
+        Hongyi Zhou, Fabian Otto, Onur Celik, <strong>Ge Li</strong>, Rudolf Lioutikov, Gerhard Neumann, 
+        in Conference on Robot Learning Workshop on Learning Effective Abstractions for Planning, 2023
     </p>
     <p>
         See:
         <a href="https://arxiv.org/pdf/2306.12729.pdf">arxiv</a> | 
-        <a href="https://intuitive-robots.github.io/mp3_website/">Website</a> | 
-        <a href="https://github.com/ALRhub/ProDMP_RAL">Poster</a> |  
+        <a href="https://intuitive-robots.github.io/mp3_website/">Website</a>
     </p>
     <p>
         We enable a new Episodic RL framework that allows trajectory replanning in deep
