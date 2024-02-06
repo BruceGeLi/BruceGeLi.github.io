@@ -125,10 +125,42 @@ re-planing in one framework.
 
 Specializing Versatile Skill Libraries using Local Mixture of Experts
 
-Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann, in Conference on Robot Learning, 2021.
+Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann, in
+Conference on Robot Learning, 2021.
 See: [Paper](https://proceedings.mlr.press/v164/celik22a/celik22a.pdf)  |  [YouTube](https://www.youtube.com/watch?v=KQ0ZA-vPCKk&t=478s)  |  [OpenReview](https://openreview.net/forum?id=j3Rguo81Yi_)
 
 We developed a mixture of experts RL framework to learn versatile skills
-given the same task, such as forehand and backhand strikes in playing table tennis. Our
+given the same task, such as forehand and backhand strikes in playing table
+tennis. Our
 method is able to assign policy experts to their corresponding context domains
-and automatically add or delete these experts when necessary.   
+and automatically add or delete these experts when necessary.
+
+[//]: # (SVSL2)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
+    <a href="/assets/images/svsl.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/svsl.png" alt="Alt text" style="float: right; margin-left: 20px; margin-bottom: 20px;" width="40%" height="40%" />
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        Specializing Versatile Skill Libraries using Local Mixture of Experts
+    </p>
+    <p>
+        Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann, 
+        in Conference on Robot Learning, 2021. 
+    </p>
+    <p>
+        See:
+        <a href="https://proceedings.mlr.press/v164/celik22a/celik22a.pdf">Paper</a> | 
+        <a href="https://openreview.net/forum?id=j3Rguo81Yi_">OpenReview</a> |  
+        <a href="https://www.youtube.com/watch?v=KQ0ZA-vPCKk&t=478s">YouTube</a> 
+    </p>
+    <p>
+        We developed a mixture of experts RL framework to learn versatile skills
+        given the same task, such as forehand and backhand strikes in playing table tennis. Our
+        method is able to assign policy experts to their corresponding context domains
+        and automatically add or delete these experts when necessary.
+    </p>
+  </div>
+</div>
