@@ -74,7 +74,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
 
 [//]: # (TCE)
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 0 0 40%; padding-right: 2%; padding-top: 1%;">
+  <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
     <a href="/assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/TCE_abstract.png" alt="TCE" />
     </a>
@@ -82,7 +82,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
     <img src="/assets/images/TCE_cov.png" alt="TCE" />
     </a>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 2;">
     <p>
         Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic Reinforcement Learning.
     </p>
@@ -115,7 +115,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
   </div>
   <div style="flex: 2;">
     <p>
-        MP3: Movement Primitive-Based (Re-)Planning Policies
+        MP3: Movement Primitive-Based (Re-) Planning Policies
     </p>
     <p>
         Hongyi Zhou, Fabian Otto, Onur Celik, <strong>Ge Li</strong>, Rudolf Lioutikov, Gerhard Neumann
