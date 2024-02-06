@@ -94,7 +94,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
         See:
         <a href="https://arxiv.org/abs/2401.11437" target="_blank" rel="noopener noreferrer">arxiv</a> | 
         <a href="https://openreview.net/forum?id=mnipav175N" target="_blank" rel="noopener noreferrer">OpenReview</a> | 
-        <a href="https://github.com/BruceGeLi/TCE_RL" target="_blank" rel="noopener noreferrer">GitHub</a> |  
+        <a href="https://github.com/BruceGeLi/TCE_RL" target="_blank" rel="noopener noreferrer">GitHub</a>   
     </p>
     <p>
         We propose a novel RL framework that integrates step-based information into the
