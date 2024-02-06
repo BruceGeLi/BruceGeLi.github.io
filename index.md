@@ -53,6 +53,7 @@ advisor [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kM
 <br>
 
 ---
+
 # News
 
 Jan 2024, one paper got accepted at ICLR 2024, I am going to present it in
@@ -77,7 +78,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
 <img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 15px;" width="40%" height="40%" />
 
 Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic
-Reinforcement Learning. 
+Reinforcement Learning.
 
 **Ge Li**, Hongyi Zhou, Dominik Roth, Serge Thilges, Fabian Otto, Rudolf
 Lioutikov, Gerhard Neumann,
@@ -94,12 +95,13 @@ movement correlation modeling and trajectory smoothness.
 [//]: # (MP3)
 <img src="/assets/images/mp3.png" alt="Alt text" style="float: right; margin-left: 20px; margin-bottom: 20px;" width="40%" height="40%" />
 
-MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto, Onur Celik, **Ge Li**, Rudolf Lioutikov, Gerhard Neumann,
-in CoRL 2023 Workshop on Learning Effective Abstractions for Planning (LEAP).  
-
+MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto,
+Onur Celik, **Ge Li**, Rudolf Lioutikov, Gerhard Neumann,
+in CoRL 2023 Workshop on Learning Effective Abstractions for Planning (LEAP).
 See: [arxiv](https://arxiv.org/pdf/2306.12729.pdf)   |  [Website](https://intuitive-robots.github.io/mp3_website/)
 
-We enable a new Episodic RL framework that allows trajectory replanning in deep RL, which allows the agent to react with changing goal and dynamic perturbation.  
+We enable a new Episodic RL framework that allows trajectory replanning in deep
+RL, which allows the agent to react with changing goal and dynamic perturbation.
 
 <br><br>
 
@@ -107,15 +109,30 @@ We enable a new Episodic RL framework that allows trajectory replanning in deep 
 <img src="/assets/images/prodmp.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 20px;" width="40%" height="40%" />
 
 ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement
-Primitives. 
+Primitives.
 
 **Ge Li**, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard
 Neumann, in IEEE Robotics and Automation Letters (RAL), 2023.
-
 See: [Paper](https://ieeexplore.ieee.org/document/10050558)   |  [Poster](https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link)  |  [GitHub](https://github.com/ALRhub/ProDMP_RAL)   |  [YouTube](https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be)
 
 We unified the Dynamic Movement Primitives and the Probabilistic Movement
-Primitives into one model, and achieved smooth trajectory generation, goal-attractor
+Primitives into one model, and achieved smooth trajectory generation,
+goal-attractor
 convergence, correlation analysis, non-linear conditioning, and online
 re-planing in one framework.
 
+<br><br>
+
+[//]: # (SVSL)
+<img src="/assets/images/svsl.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 20px;" width="40%" height="40%" />
+
+Specializing Versatile Skill Libraries using Local Mixture of Experts
+
+Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann
+Proceedings of the 5th Conference on Robot Learning, PMLR 164:1423-1433, 2022.
+See: [Paper](https://proceedings.mlr.press/v164/celik22a/celik22a.pdf)  |  [YouTube](https://www.youtube.com/watch?v=KQ0ZA-vPCKk&t=478s)  |  [OpenReview](https://openreview.net/forum?id=j3Rguo81Yi_)
+
+We developed a mixture of experts RL framework to learn versatile skills
+given the same task, such as forehand and backhand strikes in playing table tennis. Our
+method is able to assign policy experts to their corresponding context domains
+and automatically add or delete these experts when necessary.   
