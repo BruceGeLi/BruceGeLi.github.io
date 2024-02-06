@@ -50,6 +50,9 @@ supervisor [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/Ja
 and my current Ph.D.
 advisor [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
 
+<br>
+
+---
 # News
 
 Jan 2024, one paper got accepted at ICLR 2024, I am going to present it in
@@ -64,17 +67,22 @@ and met 100+ European researchers in robot learning.
 
 Jan 2023, one paper got accepted by IEEE RAL.
 
+<br>
+
+---
+
 # Publications
 
 [//]: # (TCE)
-<img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 20px;" width="40%" height="40%" />
+<img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 15px;" width="40%" height="40%" />
 
 Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic
 Reinforcement Learning. 
 
 **Ge Li**, Hongyi Zhou, Dominik Roth, Serge Thilges, Fabian Otto, Rudolf
 Lioutikov, Gerhard Neumann,
-in International Conference on Learning Representations (ICLR), 2024. 
+in International Conference on Learning Representations (ICLR), 2024.
+
 See: [arxiv](https://arxiv.org/abs/2401.11437)   |   [OpenReview](https://openreview.net/forum?id=mnipav175N)  |  [GitHub](https://github.com/BruceGeLi/TCE_RL)
 
 We propose a novel RL framework that integrates step-based information into the
@@ -88,6 +96,7 @@ movement correlation modeling and trajectory smoothness.
 
 MP3: Movement Primitive-Based (Re-)Planning Policies, Hongyi Zhou, Fabian Otto, Onur Celik, **Ge Li**, Rudolf Lioutikov, Gerhard Neumann,
 in CoRL 2023 Workshop on Learning Effective Abstractions for Planning (LEAP).  
+
 See: [arxiv](https://arxiv.org/pdf/2306.12729.pdf)   |  [Website](https://intuitive-robots.github.io/mp3_website/)
 
 We enable a new Episodic RL framework that allows trajectory replanning in deep RL, which allows the agent to react with changing goal and dynamic perturbation.  
@@ -101,18 +110,12 @@ ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement
 Primitives. 
 
 **Ge Li**, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard
-Neumann, in IEEE Robotics and Automation Letters (RAL), 2023. 
+Neumann, in IEEE Robotics and Automation Letters (RAL), 2023.
+
 See: [Paper](https://ieeexplore.ieee.org/document/10050558)   |  [Poster](https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link)  |  [GitHub](https://github.com/ALRhub/ProDMP_RAL)   |  [YouTube](https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be)
 
 We unified the Dynamic Movement Primitives and the Probabilistic Movement
 Primitives into one model, and achieved smooth trajectory generation, goal-attractor
 convergence, correlation analysis, non-linear conditioning, and online
 re-planing in one framework.
-
-
-[//]: # (<img src="./assets/images/bruce.jpg" alt="Alt text" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />)
-
-[//]: # (<img src="./assets/images/bruce.jpg" alt="Alt text" style="float: left; margin-right: 3%; margin-top: 1%; margin-bottom: 2%;" width=40% height=40% />)
-
-
 
