@@ -50,7 +50,6 @@ supervisor [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/Ja
 and my current Ph.D.
 advisor [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
 
-<br>
 
 ---
 
@@ -68,7 +67,6 @@ and met 100+ European researchers in robot learning.
 
 Jan 2023, one paper got accepted by IEEE RAL.
 
-<br>
 
 ---
 
@@ -123,12 +121,11 @@ re-planing in one framework.
 <br><br>
 
 [//]: # (SVSL)
-<img src="/assets/images/svsl.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 20px;" width="40%" height="40%" />
+<a href="/assets/images/svsl.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/svsl.png" alt="Alt text" style="float: right; margin-left: 20px; margin-bottom: 20px;" width="40%" height="40%" />
 
 Specializing Versatile Skill Libraries using Local Mixture of Experts
 
-Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann
-Proceedings of the 5th Conference on Robot Learning, PMLR 164:1423-1433, 2022.
+Onur Celik, Dongzhuoran Zhou, **Ge Li**, Philipp Becker, Gerhard Neumann, in Conference on Robot Learning, 2021.
 See: [Paper](https://proceedings.mlr.press/v164/celik22a/celik22a.pdf)  |  [YouTube](https://www.youtube.com/watch?v=KQ0ZA-vPCKk&t=478s)  |  [OpenReview](https://openreview.net/forum?id=j3Rguo81Yi_)
 
 We developed a mixture of experts RL framework to learn versatile skills
