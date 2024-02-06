@@ -73,21 +73,6 @@ Jan 2023, one paper got accepted by IEEE RAL.
 # Publications
 
 [//]: # (TCE)
-<img src="/assets/images/TCE_abstract.png" alt="Alt text" style="float: left; margin-right: 20px; margin-bottom: 15px;" width="40%" height="40%" />
-
-Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic
-Reinforcement Learning.
-
-**Ge Li**, Hongyi Zhou, Dominik Roth, Serge Thilges, Fabian Otto, Rudolf
-Lioutikov, Gerhard Neumann,
-in International Conference on Learning Representations (ICLR), 2024.
-See: [arxiv](https://arxiv.org/abs/2401.11437)   |   [OpenReview](https://openreview.net/forum?id=mnipav175N)  |  [GitHub](https://github.com/BruceGeLi/TCE_RL)
-
-We propose a novel RL framework that integrates step-based information into the
-policy updates of Episodic RL, while preserving the broad exploration scope,
-movement correlation modeling and trajectory smoothness.
-
-[//]: # (TCE)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <a href="/assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
@@ -115,8 +100,6 @@ movement correlation modeling and trajectory smoothness.
     </p>
   </div>
 </div>
-
-
 
 <br><br>
 
