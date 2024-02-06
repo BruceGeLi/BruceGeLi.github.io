@@ -92,9 +92,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
     </p>
     <p>
         See:
-        <a href="https://arxiv.org/abs/2401.11437">arxiv</a> | 
-        <a href="https://openreview.net/forum?id=mnipav175N">OpenReview</a> | 
-        <a href="https://github.com/BruceGeLi/TCE_RL">GitHub</a> |  
+        <a href="https://arxiv.org/abs/2401.11437" target="_blank" rel="noopener noreferrer">arxiv</a> | 
+        <a href="https://openreview.net/forum?id=mnipav175N" target="_blank" rel="noopener noreferrer">OpenReview</a> | 
+        <a href="https://github.com/BruceGeLi/TCE_RL" target="_blank" rel="noopener noreferrer">GitHub</a> |  
     </p>
     <p>
         We propose a novel RL framework that integrates step-based information into the
@@ -126,9 +126,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
     </p>
     <p>
         See:
-        <a href="https://arxiv.org/pdf/2306.12729.pdf">arxiv</a> | 
-        <a href="https://intuitive-robots.github.io/mp3_website/">Website</a>
-        <a href="https://drive.google.com/file/d/1ifTGzw1Eocg8YKo4wRiBPtSBUx0dvfzS/view?usp=sharing">Poster</a>
+        <a href="https://arxiv.org/pdf/2306.12729.pdf" target="_blank" rel="noopener noreferrer">arxiv</a> | 
+        <a href="https://intuitive-robots.github.io/mp3_website/" target="_blank" rel="noopener noreferrer">Website</a>
+        <a href="https://drive.google.com/file/d/1ifTGzw1Eocg8YKo4wRiBPtSBUx0dvfzS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a>
     </p>
     <p>
         We enable a new Episodic RL framework that allows trajectory replanning in deep
@@ -160,10 +160,10 @@ Jan 2023, one paper got accepted by IEEE RAL.
     </p>
     <p>
         See:
-        <a href="https://ieeexplore.ieee.org/document/10050558">Paper</a> | 
-        <a href="https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link">Poster</a> | 
-        <a href="https://github.com/ALRhub/ProDMP_RAL">GitHub</a> |  
-        <a href="https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be">YouTube</a> 
+        <a href="https://ieeexplore.ieee.org/document/10050558" target="_blank" rel="noopener noreferrer">Paper</a> | 
+        <a href="https://drive.google.com/file/d/1s3kOqdEiMePO4eefcoBV6mDssjtks8L1/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Poster</a> | 
+        <a href="https://github.com/ALRhub/ProDMP_RAL" target="_blank" rel="noopener noreferrer">GitHub</a> |  
+        <a href="https://www.youtube.com/watch?v=PAM0NusL2Do&feature=youtu.be" target="_blank" rel="noopener noreferrer">YouTube</a> 
     </p>
     <p>
         We unified the Dynamic Movement Primitives and the Probabilistic Movement
@@ -196,9 +196,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
     </p>
     <p>
         See:
-        <a href="https://proceedings.mlr.press/v164/celik22a/celik22a.pdf">Paper</a> | 
-        <a href="https://openreview.net/forum?id=j3Rguo81Yi_">OpenReview</a> |  
-        <a href="https://www.youtube.com/watch?v=KQ0ZA-vPCKk&t=478s">YouTube</a> 
+        <a href="https://proceedings.mlr.press/v164/celik22a/celik22a.pdf" target="_blank" rel="noopener noreferrer">Paper</a> | 
+        <a href="https://openreview.net/forum?id=j3Rguo81Yi_" target="_blank" rel="noopener noreferrer">OpenReview</a> |  
+        <a href="https://www.youtube.com/watch?v=KQ0ZA-vPCKk&t=478s" target="_blank" rel="noopener noreferrer">YouTube</a> 
     </p>
     <p>
         We developed a mixture of experts RL framework to learn versatile skills
