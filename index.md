@@ -127,7 +127,7 @@ Jan 2023, one paper got accepted by IEEE RAL.
     <p>
         See:
         <a href="https://arxiv.org/pdf/2306.12729.pdf" target="_blank" rel="noopener noreferrer">arxiv</a> | 
-        <a href="https://intuitive-robots.github.io/mp3_website/" target="_blank" rel="noopener noreferrer">Website</a>
+        <a href="https://intuitive-robots.github.io/mp3_website/" target="_blank" rel="noopener noreferrer">Website</a> |
         <a href="https://drive.google.com/file/d/1ifTGzw1Eocg8YKo4wRiBPtSBUx0dvfzS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a>
     </p>
     <p>
