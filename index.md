@@ -112,6 +112,9 @@ Jan 2023, one paper got accepted by IEEE RAL.
     <a href="/assets/images/mp3.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/mp3.png" alt="MP3" />
     </a>
+    <a href="/assets/images/mp3_envs.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/mp3_envs.png" alt="MP3" />
+    </a>    
   </div>
   <div style="flex: 2;">
     <p>
