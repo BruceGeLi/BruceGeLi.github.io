@@ -29,6 +29,22 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
+<!--Make button transparent-->
+<style>
+    #theme-toggle {
+        background: none; /* Remove background */
+        border: none; /* Remove border */
+        cursor: pointer; /* Keep the cursor as pointer to indicate clickability */
+        color: inherit; /* Inherit text color from parent */
+        font-size: inherit; /* Optional: Adjust font size as needed */
+    }
+
+    /* Optional: Add styles for hover effect to give feedback to users */
+    #theme-toggle:hover {
+        opacity: 0.8; /* Slightly reduce opacity on hover */
+    }
+</style>
+
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
