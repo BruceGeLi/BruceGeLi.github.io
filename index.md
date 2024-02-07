@@ -42,7 +42,7 @@ Subsequently, I moved to Germany and obtained my Master's degree in
 Computer-Aided
 Mechanical Engineering at
 the [RWTH Aachen University](https://en.wikipedia.org/wiki/RWTH_Aachen_University).
-During this period, my interests shifted towards Robotics and Computer Science.
+During this period, my interests shifted towards Robotics and Computer Science,
 leading me to
 the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
 (MPIIS) for my Master's thesis, where I met my thesis
