@@ -50,10 +50,14 @@
   {% include menu.html menu=pages %}
   <button id="theme-toggle" aria-label="Toggle theme">
     <!-- Light theme icon (sun) -->
-    <svg id="icon-light-theme" viewBox="0 0 24 24" style="display: none;" aria-label="light" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#sun"></use></svg>
+    <svg id="icon-light-theme" viewBox="0 0 24 24" style="display: none;" aria-label="light" class="icon">
+    <use xlink:href="/assets/fontawesome/icons.svg#sun"></use>
+    </svg>
 
     <!-- Dark theme icon (moon) -->
-    <svg id="icon-dark-theme" viewBox="0 0 24 24" aria-label="dark" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#moon"></use></svg>
+    <svg id="icon-dark-theme" viewBox="0 0 24 24" style="display: none;" aria-label="dark" class="icon">
+    <use xlink:href="/assets/fontawesome/icons.svg#moon"></use>
+    </svg>
   </button>
 
   <script src="/assets/theme/theme-switcher.js" defer></script>
