@@ -30,7 +30,10 @@
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-  <button id="theme-toggle">Switch Theme</button>
+  <button id="theme-toggle" aria-label="Toggle theme">
+  <i class="fas fa-sun" style="display: none;" id="icon-light-theme"></i>
+  <i class="fas fa-moon" id="icon-dark-theme"></i>
+  </button>
   <script src="/assets/theme/theme-switcher.js" defer></script>
 </header>
 
