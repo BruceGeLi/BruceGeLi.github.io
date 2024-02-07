@@ -49,9 +49,13 @@
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
   <button id="theme-toggle" aria-label="Toggle theme">
-    <span id="light-label" style="display: none;">🌞</span>
-    <span id="dark-label">🌜</span>
+    <!-- Light theme icon (sun) -->
+    <svg id="icon-light-theme" viewBox="0 0 24 24" style="display: none;" aria-label="light" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ sun }}"></use></svg>
+
+    <!-- Dark theme icon (moon) -->
+    <svg id="icon-dark-theme" viewBox="0 0 24 24" aria-label="dark" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ moon }}"></use></svg>
   </button>
+
   <script src="/assets/theme/theme-switcher.js" defer></script>
 </header>
 
