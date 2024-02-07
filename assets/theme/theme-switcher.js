@@ -11,6 +11,10 @@ function switchTheme() {
 
     // Save the user's theme preference
     localStorage.setItem('theme', newTheme);
+
+    // Toggle icon visibility
+    document.getElementById('icon-light-theme').style.display = newTheme === 'light' ? 'none' : 'block';
+    document.getElementById('icon-dark-theme').style.display = newTheme === 'dark' ? 'none' : 'block';
 }
 
 // Event listener for the button
