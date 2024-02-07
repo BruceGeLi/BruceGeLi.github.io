@@ -45,6 +45,16 @@
     }
 </style>
 
+<!--Make white sun and moon emoji -->
+<span class="emoji-sun">🌞</span>
+<span class="emoji-moon">🌜</span>
+<style>
+  .emoji-sun, .emoji-moon {
+    color: white;
+    font-size: 24px; /* Adjust the size as needed */
+  }
+</style>
+
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
