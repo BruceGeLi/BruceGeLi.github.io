@@ -144,8 +144,8 @@ Jan 2023, one paper got accepted by IEEE RAL.
 [//]: # (ProDMP)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
-    <a href="/assets/images/prodmp.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/prodmp.png" alt="ProDMP" />
+    <a href="/assets/images/robot_pick.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/robot_pick.gif" alt="ProDMP" />
     </a>
     <a href="/assets/images/prodmp_structure.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/prodmp_structure.png" alt="ProDMP" />
