@@ -54,19 +54,12 @@ advisor [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kM
 ---
 
 # News
+Sept 2024, one co-authored paper got accepted by NeurIPS 2024, I am going to present it in Vancouver, Canada.
+
+August 2024, one co-authored paper got accepted by CoRL 2024.
 
 Jan 2024, one paper got accepted at ICLR 2024, I am going to present it in
 Vienna, Austria.
-
-Oct 2023, I presented my RAL paper at IROS 2023 in Detroit, US.
-
-Aug 2023, I joined
-the [IWIAS](https://www.ias.informatik.tu-darmstadt.de/Workshop/IWIALS) in
-Kleinwalsertal, Austria.
-and met 100+ European researchers in robot learning.
-
-Jan 2023, one paper got accepted by IEEE RAL.
-
 
 ---
 
