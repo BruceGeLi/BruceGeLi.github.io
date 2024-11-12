@@ -72,6 +72,38 @@ Jan 2023, one paper got accepted by IEEE RAL.
 
 # Publications
 
+
+[//]: # (VDD)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
+    <a href="/assets/images/VDD_overview.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/VDD_overview.png" alt="TCE" />
+    </a>
+    <a href="/assets/images/vdd_toy_task_animation.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/vdd_toy_task_animation.gif" alt="VDD_toy" />
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        Variational Distillation of Diffusion Policies into Mixture of Experts
+    </p>
+    <p>
+        Hongyi Zhou, Denis Blessing, <strong>Ge Li</strong>, Onur Celik, Gerhard Neumann, Rudolf Lioutikov, NeurIPS, 2024.
+    </p>
+    <p>
+        See:
+        <a href="https://arxiv.org/pdf/2406.12538" target="_blank" rel="noopener noreferrer">arxiv</a> | 
+        <a href="https://neurips.cc/virtual/2024/poster/93992" target="_blank" rel="noopener noreferrer">NeurIPS</a> | 
+        <a href="https://intuitive-robots.github.io/vdd-website/" target="_blank" rel="noopener noreferrer">GitHub</a>   
+    </p>
+    <p>
+        We introduce Variational Diffusion Distillation (VDD), a novel method for distilling denoising diffusion policies into a Mixture of Experts (MoE).
+    </p>
+  </div>
+</div>
+
+<br><br>
+
 [//]: # (TCE)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
