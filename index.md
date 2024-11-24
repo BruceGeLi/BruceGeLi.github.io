@@ -62,7 +62,7 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
   </div>
   <div style="flex: 2;">
     <p>
-        TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning
+        TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning (Under Review)
     </p>
     <p>
         <strong>Ge Li</strong>, Dong Tian, Hongyi Zhou, Xinkai Jiang, Rudolf Lioutikov, Gerhard Neumann. arxiv Pre-print.
