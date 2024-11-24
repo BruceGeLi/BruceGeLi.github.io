@@ -12,8 +12,6 @@ under the supervision of [Prof. Gerhard Neumann](https://scholar.google.de/citat
 and [T.T. Prof. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/).
 <br>
 
----
-
 My research focuses on advancing the learning and representation of robotic movement trajectories, 
 with a particular emphasis on their applications in imitation and reinforcement learning.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
@@ -23,8 +21,6 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 such as Cognitive Systems (SS20, SS21), Machine Learning (WS21/22, SS23, SS24),
 and partially in Deep Reinforcement Learning (WS21/22). I also mentor and supervise 
 several Bachelor's and Master's research projects, seminars, and theses.
-
----
 
 I was born and raised in Beijing, China and obtained my Bachelor's degree in
 Mechanical Engineering at
