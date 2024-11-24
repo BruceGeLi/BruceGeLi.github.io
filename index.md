@@ -69,7 +69,7 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
         Variational Distillation of Diffusion Policies into Mixture of Experts
     </p>
     <p>
-        Hongyi Zhou, Denis Blessing, <strong>Ge Li</strong>, Onur Celik, Gerhard Neumann, Rudolf Lioutikov, NeurIPS, 2024.
+        Hongyi Zhou, Denis Blessing, <strong>Ge Li</strong>, Onur Celik, Gerhard Neumann, Rudolf Lioutikov, <strong>NeurIPS, 2024</strong>.
     </p>
     <p>
         See:
@@ -79,6 +79,41 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
     </p>
     <p>
         We introduce Variational Diffusion Distillation (VDD), a novel method for distilling denoising diffusion policies into a Mixture of Experts (MoE).
+    </p>
+  </div>
+</div>
+
+<br><br>
+
+
+[//]: # (Mamba)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/Mamba_architecture.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/Mamba_architecture.png" alt="TCE" />
+    </a>
+    <a href="/assets/images/Mamba_cups.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/Mamba_cups.gif" alt="VDD_toy" style="width: 47.5%; max-width: 300px;"/>
+    </a>
+    <a href="/assets/images/Mamba_insert.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/Mamba_insert.gif" alt="VDD_toy" style="width: 48.5%; max-width: 300px;"/>
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        MaIL: Improving Imitation Learning with Selective State Space Models
+    </p>
+    <p>
+        Xiaogang Jia, Qian Wang, Atalay Donat, Bowen Xing, <strong>Ge Li</strong>, Hongyi Zhou, Onur Celik, Denis Blessing, Rudolf Lioutikov, Gerhard Neumann, <strong>CoRL, 2024</strong>.
+    </p>
+    <p>
+        See:
+        <a href="https://arxiv.org/pdf/2406.08234" target="_blank" rel="noopener noreferrer">arxiv</a> | 
+        <a href="https://openreview.net/forum?id=IssXUYvVTg" target="_blank" rel="noopener noreferrer">OpenReview</a> | 
+        <a href="https://xiaogangjia.github.io/mail_website/" target="_blank" rel="noopener noreferrer">GitHub</a>   
+    </p>
+    <p>
+        We introduce Mamba Imitation Learning (MaIL), a novel imitation learning (IL) architecture that offers a computationally efficient alternative to state-of-the-art (SoTA) Transformer policies.
     </p>
   </div>
 </div>
@@ -101,7 +136,7 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
     </p>
     <p>
         <strong>Ge Li</strong>, Hongyi Zhou, Dominik Roth, Serge Thilges, 
-        Fabian Otto, Rudolf Lioutikov, Gerhard Neumann, in International Conference on Learning Representations (ICLR), 2024.
+        Fabian Otto, Rudolf Lioutikov, Gerhard Neumann, <strong>ICLR, 2024</strong>.
     </p>
     <p>
         See:
