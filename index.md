@@ -17,8 +17,8 @@ with a particular emphasis on their applications in imitation and reinforcement 
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
 state-of-the-art algorithms and tools.
 
-In addition to my research, I serve as a teaching assistant at KIT, contributing to courses
-such as Cognitive Systems (SS20, SS21), Machine Learning (WS21/22, SS23, SS24),
+In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
+Cognitive Systems (SS20, SS21), Machine Learning (WS21/22, SS23, SS24),
 and partially in Deep Reinforcement Learning (WS21/22). I also mentor and supervise 
 several Bachelor's and Master's research projects, seminars, and theses.
 
@@ -53,8 +53,8 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
 [//]: # (TOP-ERL)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/TOP_ERL_critic.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TOP_ERL_critic.gif" alt="TCE" />
+    <a href="/assets/images/TOP_ERL_critic.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/TOP_ERL_critic.png" alt="TCE" />
     </a>
     <a href="/assets/images/TOP_ERL_results.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/TOP_ERL_results.png" alt="TCE" />
