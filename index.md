@@ -5,61 +5,50 @@ layout: page
 ---
 
 <img src="/assets/images/Bruce_iclr.jpg" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
-
 I am a Ph.D. candidate at
 the [Autonomous Learning Robots](https://alr.iar.kit.edu/) (ALR) Lab of
 the [Karlsruhe Institute of Technology](https://www.kit.edu/english/) (KIT),
-under
-the supervision
-of [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
-In addition, I collaborate closely
-with [T.T. Prof. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/).
+under the supervision of [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en)
+and [T.T. Prof. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/).
 <br>
 
-My research primarily concentrates on advancing the learning and representation
-of robotic movement trajectories, with a particular emphasis on their
-application in tasks involving robot imitation and reinforcement learning. I
-hold the conviction that robots possess the potential to learn and emulate human
-behavior, enabling them to observe their surroundings and execute movements in
-an intuitive fashion. This intuition encompasses movements that are both smooth
-and consistent. In pursuit of these objectives, I am committed to enhancing the
-**capacity of models**, their **learning efficiency**, and their ability to
-provide
-**explanations**, all through the adoption of state-of-the-art algorithms and
-tools.
-Along with my research, I also serve as a teaching assistant at KIT, including
-Cognitive Systems (SS20, SS21), Machine Learning (WS21/22, SS23), and partially
-in Deep Reinforcement Learning (WS21/22).
-I also lead and supervise several Bachelor's and Master's research projects,
-seminars and theses.
+---
 
-[//]: # (<br>)
+My research focuses on advancing the learning and representation of robotic movement trajectories, 
+with a particular emphasis on their applications in imitation and reinforcement learning.
+I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
+state-of-the-art algorithms and tools.
+
+In addition to my research, I serve as a teaching assistant at KIT, contributing to courses
+such as Cognitive Systems (SS20, SS21), Machine Learning (WS21/22, SS23, SS24),
+and partially in Deep Reinforcement Learning (WS21/22). I also mentor and supervise 
+several Bachelor's and Master's research projects, seminars, and theses.
+
+---
 
 I was born and raised in Beijing, China and obtained my Bachelor's degree in
 Mechanical Engineering at
 the [University of Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China).
-Subsequently, I moved to Germany and obtained my Master's degree in
-Computer-Aided
-Mechanical Engineering at
+Later, I moved to Germany to pursue my Master's degree in Computer-Aided Mechanical Engineering at
 the [RWTH Aachen University](https://en.wikipedia.org/wiki/RWTH_Aachen_University).
-During this period, my interests shifted towards Robotics and Computer Science,
-leading me to
-the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
-(MPIIS) for my Master's thesis, where I met my thesis
-supervisor [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters)
-and my current Ph.D.
-advisor [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
+During my studies, I gained practical experience as a software engineering intern at [Kärcher](https://www.kaercher.com/int/professional/cleaning-robots.html) in Stuttgart, 
+focusing on autonomous robotic cleaners.
+For my Master's thesis, I joined the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
+(MPIIS), where I collaborated with my thesis supervisor [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters)
+and my current Ph.D. advisor [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
 
 
 ---
 
 # News
-Sept 2024, one co-authored paper got accepted by NeurIPS 2024, I am going to present it in Vancouver, Canada.
 
-August 2024, one co-authored paper got accepted by CoRL 2024.
+[//]: # (Jan. 2025, my PhD work got accepted by ICLR 2025, I am going to present it in Singapore.)
 
-Jan 2024, one paper got accepted at ICLR 2024, I am going to present it in
-Vienna, Austria.
+Sept. 2024, one co-authored paper got accepted by NeurIPS 2024, I am going to present it in Vancouver, Canada.
+
+Aug. 2024, one co-authored paper got accepted by CoRL 2024.
+
+Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Austria.
 
 ---
 
@@ -68,12 +57,15 @@ Vienna, Austria.
 
 [//]: # (VDD)
 <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
     <a href="/assets/images/VDD_overview.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/VDD_overview.png" alt="TCE" />
     </a>
     <a href="/assets/images/vdd_toy_task_animation.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/vdd_toy_task_animation.gif" alt="VDD_toy" />
+    <img src="/assets/images/vdd_toy_task_animation.gif" alt="VDD_toy" style="width: 52%; max-width: 300px;"/>
+    </a>
+    <a href="/assets/images/vdd_sort_6.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/vdd_sort_6.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
     </a>
   </div>
   <div style="flex: 2;">
