@@ -50,6 +50,34 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
 
 # Publications
 
+[//]: # (TOP-ERL)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/TOP_ERL_critic.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/TOP_ERL_critic.gif" alt="TCE" />
+    </a>
+    <a href="/assets/images/TOP_ERL_results.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/TOP_ERL_results.png" alt="TCE" />
+    </a> 
+  </div>
+  <div style="flex: 2;">
+    <p>
+        TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning
+    </p>
+    <p>
+        <strong>Ge Li</strong>, Dong Tian, Hongyi Zhou, Xinkai Jiang, Rudolf Lioutikov, Gerhard Neumann. arxiv Pre-print.
+    </p>
+    <p>
+        See:
+        <a href="https://arxiv.org/pdf/2410.09536" target="_blank" rel="noopener noreferrer">arxiv</a>
+    </p>
+    <p>
+        We propose a novel online off-policy RL methodology that utilizes a transformer-based critic to learn values of action sequences.
+    </p>
+  </div>
+</div>
+
+<br><br>
 
 [//]: # (VDD)
 <div style="display: flex; align-items: flex-start;">
@@ -92,6 +120,9 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
     <a href="/assets/images/Mamba_architecture.png" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/Mamba_architecture.png" alt="TCE" />
     </a>
+    <a href="/assets/images/Mamba_architecture2.png.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/Mamba_architecture2.png" alt="TCE" />
+    </a>
     <a href="/assets/images/Mamba_cups.gif" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/Mamba_cups.gif" alt="VDD_toy" style="width: 47.5%; max-width: 300px;"/>
     </a>
@@ -113,7 +144,7 @@ Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Aust
         <a href="https://xiaogangjia.github.io/mail_website/" target="_blank" rel="noopener noreferrer">GitHub</a>   
     </p>
     <p>
-        We introduce Mamba Imitation Learning (MaIL), a novel imitation learning (IL) architecture that offers a computationally efficient alternative to state-of-the-art (SoTA) Transformer policies.
+        We introduce Mamba Imitation Learning (MaIL), a novel imitation learning architecture that offers a computationally efficient alternative to state-of-the-art Transformer policies.
     </p>
   </div>
 </div>
