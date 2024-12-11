@@ -40,11 +40,11 @@ and my current Ph.D. advisor [Prof. Gerhard Neumann](https://scholar.google.de/c
 
 [//]: # (Jan. 2025, my PhD work got accepted by ICLR 2025, I am going to present it in Singapore.)
 
-Sept. 2024, one co-authored paper got accepted by NeurIPS 2024, I am going to present it in Vancouver, Canada.
+Dec. 2024, I presented my co-authored work in NeurIPS 2024 in Vancouver, Canada.
 
 Aug. 2024, one co-authored paper got accepted by CoRL 2024.
 
-Jan. 2024, my PhD work got accepted at ICLR 2024, I presented it in Vienna, Austria.
+May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria.
 
 ---
 
