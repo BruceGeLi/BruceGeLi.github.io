@@ -38,7 +38,7 @@ and my current Ph.D. advisor [Prof. Gerhard Neumann](https://scholar.google.de/c
 
 # News
 
-[//]: # (Jan. 2025, my PhD work got accepted by ICLR 2025, I am going to present it in Singapore.)
+Jan. 2025, my latest PhD work got accepted by ICLR 2025. I will present it in Singapore.
 
 Dec. 2024, I presented my co-authored work in NeurIPS 2024 in Vancouver, Canada.
 
@@ -62,10 +62,10 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria.
   </div>
   <div style="flex: 2;">
     <p>
-        TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning (Under Review)
+        TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning
     </p>
     <p>
-        <strong>Ge Li</strong>, Dong Tian, Hongyi Zhou, Xinkai Jiang, Rudolf Lioutikov, Gerhard Neumann.
+        <strong>Ge Li</strong>, Dong Tian, Hongyi Zhou, Xinkai Jiang, Rudolf Lioutikov, Gerhard Neumann, <strong>ICLR, 2025</strong>.
     </p>
     <p>
         See:
