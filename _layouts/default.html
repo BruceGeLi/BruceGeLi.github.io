@@ -59,11 +59,11 @@
 </head>
 <body>
 <header>
-  <a href="{{ '/' | relative_url }}" class="title">{{ site.title | escape }}</a>
+  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-  <button id="theme-toggle" aria-label="Toggle theme" aria-pressed="false">
-    <span id="light-label" style="display: none;">🌞 Light Mode</span>
-    <span id="dark-label">🌜 Dark Mode</span>
+  <button id="theme-toggle" aria-label="Toggle theme">
+    <span id="light-label" style="display: none;">🌞</span>
+    <span id="dark-label">🌜</span>
   </button>
   <script src="/assets/theme/theme-switcher.js" defer></script>
 </header>
