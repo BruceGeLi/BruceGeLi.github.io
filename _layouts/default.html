@@ -66,6 +66,12 @@
   <script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>
   {% endif %}
 
+  {% if site.navigation %}
+    {% assign pages = site.navigation %}
+  {% else %}
+    {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
+  {% endif %}
+
   {% if site.comments.isso_domain and page.layout == 'post' %}
   <script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>
   {% endif %}
@@ -87,7 +93,7 @@
 <body>
 <header>
   <a href="{{ '/' | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% include menu.html menu=external %}
+  {% include menu.html menu=pages %}
   <button id="theme-toggle" aria-label="Toggle theme" aria-pressed="false">
     <span id="light-label" style="display: none;">🌞</span>
     <span id="dark-label">🌜</span>
