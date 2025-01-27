@@ -31,7 +31,6 @@
     "url": "https://brucegeli.github.io/",
     "sameAs": [
       "https://github.com/BruceGeLi",
-      "https://www.linkedin.com/in/geli-bruce/",
       "https://scholar.google.com/citations?user=ahqtghsAAAAJ&hl=en"
     ],
     "description": "Ge Li (Bruce)'s personal website showcasing projects in robotics, machine learning, and nanoindentation research.",
@@ -88,10 +87,10 @@
 <body>
 <header>
   <a href="{{ '/' | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% include menu.html menu=pages %}
+  {% include menu.html menu=external %}
   <button id="theme-toggle" aria-label="Toggle theme" aria-pressed="false">
-    <span id="light-label" style="display: none;">🌞 Light Mode</span>
-    <span id="dark-label">🌜 Dark Mode</span>
+    <span id="light-label" style="display: none;">🌞</span>
+    <span id="dark-label">🌜</span>
   </button>
   <script src="/assets/theme/theme-switcher.js" defer></script>
 </header>
