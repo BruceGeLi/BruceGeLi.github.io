@@ -31,7 +31,7 @@ During my studies, I gained practical experience as a software engineering inter
 focusing on autonomous robotic cleaners.
 For my Master's thesis, I joined the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
 (MPIIS), where I collaborated with my thesis supervisor [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters)
-and my current Ph.D. advisor [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en).
+and my current Ph.D. advisor <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a>.
 
 
 ---
