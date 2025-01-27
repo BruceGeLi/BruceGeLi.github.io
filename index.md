@@ -1,5 +1,5 @@
 ---
-title: "This is Bruce"
+title: "This is Ge Li (Bruce)"
 #permalink: /:title/
 layout: page
 ---
