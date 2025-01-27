@@ -1,6 +1,6 @@
-title: "Ge Li (Bruce)"
+title: "Ge Li (Bruce) | Robotics & Machine Learning"
 author: "Ge Li"
-description: "Ge Li (Bruce)'s website. All rights reserved."
+description: "Ge Li (Bruce)'s website, showcasing expertise in robotics and machine learning"
 url: https://brucegeli.github.io/
 permalink: /:title/
 lang: "en"
@@ -35,4 +35,5 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
+  - jekyll-seo-tag
