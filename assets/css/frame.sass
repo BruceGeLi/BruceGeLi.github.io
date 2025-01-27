@@ -4,25 +4,22 @@
 @import index, font, basic, layout, classes
 
 html
-  background: $light // Light mode background
+  background: lighten($dark, 70%)
   padding: 0 calc(38% - 22em)
-  color: $dark // Text color in light mode
 
 body
-  box-shadow: 0 0 .3em reduce(85) // Subtle shadow blending with the light theme
+  box-shadow: 0 0 .3em lighten($dark, 65%)
 
 body > header, body > footer
-  background: $light
-  color: $dark
+  background: lighten($dark, 5%)
+  color: $light
+
+@media (min-width: 32em)
+  body > header, body > article, body > footer
+    padding: 1.75em calc(22% - 6em)
 
 @media (prefers-color-scheme: dark)
-  html
-    background: $dark // Dark mode background
-    color: $light // Text color in dark mode
-
-  body
-    box-shadow: 0 0 .3em reduce(15) // Subtle shadow blending with the dark theme
-
-  body > header, body > footer
+  body, body > header, body > footer
+    box-shadow: 0 0 0 1px lighten($dark, 8%)
+  html, body > header, body > footer
     background: $dark
-    color: $light
