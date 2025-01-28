@@ -9,8 +9,6 @@ I am a Ph.D. candidate in machine learning and robotics at the <a href="https://
 under the supervision of <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>
 
-<br>
-
 My research focuses on advancing the learning and representation of robotic control policies, 
 with a particular emphasis on their applications in imitation and reinforcement learning.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
@@ -23,13 +21,13 @@ Cognitive Systems, Machine Learning, and Deep Reinforcement Learning. I also men
 
 # Education & Experience
 
-2020-Present, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Ph.D. Candidate, Computer Science**.
+2020 - Present, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Ph.D. Candidate, Computer Science**.
 
-2015-2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, Master's Degree, Computer-Aided Mechanical Engineering.
+2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, Master's Degree, Computer-Aided Mechanical Engineering.
 
-2011-2015, <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a>, Bachelor's Degree, Mechanical Engineering. 
+2011 - 2015, <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a>, Bachelor's Degree, Mechanical Engineering. 
 
-2018-2019, <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer">Max Planck Institute for Intelligent Systems</a>, Germany, Robot Research Intern.
+2018 - 2019, <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer">Max Planck Institute for Intelligent Systems</a>, Germany, Robot Research Intern.
 
 2018, <a href="https://www.kaercher.com/int/" target="_blank" rel="noopener noreferrer">Alfred Kärcher SE & Co. KG</a>, Germany, Robot Software Engineer Intern.
 
