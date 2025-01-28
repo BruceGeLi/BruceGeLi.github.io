@@ -5,8 +5,7 @@ layout: page
 ---
 
 <img src="/assets/images/Profile.gif" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
-I am a Ph.D. candidate in machine learning and robotics at the <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>,
-under the supervision of <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
+I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology, Germany, under the supervision of <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>
 
 My research focuses on advancing the learning and representation of robotic control policies, 
