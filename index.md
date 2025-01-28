@@ -11,9 +11,7 @@ I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institu
 My research focuses on advancing the learning and representation of robotic motion policies, 
 with a particular emphasis on their applications in **imitation and reinforcement learning**.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
-state-of-the-art algorithms and tools.
-
-In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
+state-of-the-art algorithms and tools. In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
 Cognitive Systems, Machine Learning, and Deep Reinforcement Learning. I also mentor several Bachelor and Master students for their research projects and theses.
 
 ---
