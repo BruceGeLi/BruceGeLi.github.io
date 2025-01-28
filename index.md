@@ -20,9 +20,9 @@ Cognitive Systems, Machine Learning, and Deep Reinforcement Learning. I also men
 
 2020 - Present, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Ph.D. Candidate, Computer Science**.
 
-2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, Master's Degree, Computer-Aided Mechanical Engineering.
+2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, **Master's Degree**, Computer-Aided Mechanical Engineering.
 
-2011 - 2015, <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a>, Bachelor's Degree, Mechanical Engineering. 
+2011 - 2015, <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a>, **Bachelor's Degree**, Mechanical Engineering. 
 
 2018 - 2019, <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer">Max Planck Institute for Intelligent Systems</a>, Germany, Robot Research Intern.
 
