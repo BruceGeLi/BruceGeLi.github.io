@@ -5,14 +5,14 @@ layout: page
 ---
 
 <img src="/assets/images/Profile.gif" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
-I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany, under the supervision of <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
+I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
 
-My research focuses on advancing the learning and representation of robotic motion policies, 
+I focus on advancing the learning and representation of robotic motion policies, 
 with a particular emphasis on their applications in **imitation and reinforcement learning**.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
 state-of-the-art algorithms and tools. In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
-Cognitive Systems, Machine Learning, and Deep Reinforcement Learning. I also mentor several Bachelor and Master students for their research projects and theses.
+**Cognitive Systems**, **Machine Learning**, and **Deep Reinforcement Learning**. I also mentor several Bachelor and Master students for their research projects and theses.
 
 ---
 
