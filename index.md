@@ -5,11 +5,11 @@ layout: page
 ---
 
 <img src="/assets/images/Profile.gif" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
-I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology, Germany, under the supervision of <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
-<a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>
+I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany, under the supervision of <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
+<a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
 
-My research focuses on advancing the learning and representation of robotic control policies, 
-with a particular emphasis on their applications in imitation and reinforcement learning.
+My research focuses on advancing the learning and representation of robotic motion policies, 
+with a particular emphasis on their applications in **imitation and reinforcement learning**.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
 state-of-the-art algorithms and tools.
 
@@ -34,13 +34,13 @@ Cognitive Systems, Machine Learning, and Deep Reinforcement Learning. I also men
 
 # News
 
-Jan. 2025, my latest PhD work got accepted by ICLR 2025. I will present it in Singapore.
+Jan. 2025, my latest PhD work got accepted by ICLR 2025. I will present it in Singapore 🇸🇬.
 
-Dec. 2024, I presented my co-authored work in NeurIPS 2024 in Vancouver, Canada.
+Dec. 2024, I presented my co-authored work in NeurIPS 2024 in Vancouver, Canada 🇨🇦.
 
-Aug. 2024, one co-authored paper got accepted by CoRL 2024.
+Aug. 2024, one co-authored paper got accepted by CoRL 2024 🇩🇪.
 
-May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria.
+May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 ---
 
