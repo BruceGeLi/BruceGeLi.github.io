@@ -5,34 +5,33 @@ layout: page
 ---
 
 <img src="/assets/images/Profile.gif" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
-I am a Ph.D. candidate at
-the [Autonomous Learning Robots](https://alr.iar.kit.edu/) (ALR) Lab of
-the [Karlsruhe Institute of Technology](https://www.kit.edu/english/) (KIT),
-under the supervision of [Prof. Gerhard Neumann](https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en)
-and [T.T. Prof. Rudolf Lioutikov](https://rudolf.intuitive-robots.net/).
+I am a Ph.D. candidate in machine learning and robotics at the <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>,
+under the supervision of <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
+<a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>
+
 <br>
 
-My research focuses on advancing the learning and representation of robotic movement trajectories, 
+My research focuses on advancing the learning and representation of robotic control policies, 
 with a particular emphasis on their applications in imitation and reinforcement learning.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
 state-of-the-art algorithms and tools.
 
 In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
-Cognitive Systems (SS20, SS21), Machine Learning (WS21/22, SS23, SS24),
-and partially in Deep Reinforcement Learning (WS21/22). I also mentor and supervise 
-several Bachelor's and Master's research projects, seminars, and theses.
+Cognitive Systems, Machine Learning, and Deep Reinforcement Learning. I also mentor several Bachelor and Master students for their research projects and theses.
 
-I was born and raised in Beijing, China and obtained my Bachelor's degree in
-Mechanical Engineering at
-the [University of Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China).
-Later, I moved to Germany to pursue my Master's degree in Computer-Aided Mechanical Engineering at
-the [RWTH Aachen University](https://en.wikipedia.org/wiki/RWTH_Aachen_University).
-During my studies, I gained practical experience as a software engineering intern at [Kärcher](https://www.kaercher.com/int/professional/cleaning-robots.html) in Stuttgart, 
-focusing on autonomous robotic cleaners.
-For my Master's thesis, I joined the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
-(MPIIS), where I collaborated with my thesis supervisor [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters)
-and my current Ph.D. advisor <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a>.
+---
 
+# Education & Experience
+
+2020-Present, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Ph.D. Candidate, Computer Science**.
+
+2015-2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, Master's Degree, Computer-Aided Mechanical Engineering.
+
+2011-2015, <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a>, Bachelor's Degree, Mechanical Engineering. 
+
+2018-2019, <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer">Max Planck Institute for Intelligent Systems</a>, Germany, Robot Research Intern.
+
+2018, <a href="https://www.kaercher.com/int/" target="_blank" rel="noopener noreferrer">Alfred Kärcher SE & Co. KG</a>, Germany, Robot Software Engineer Intern.
 
 ---
 
