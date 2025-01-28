@@ -11,7 +11,9 @@ I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institu
 I focus on advancing the learning and representation of robotic motion policies, 
 with a particular emphasis on their applications in **imitation and reinforcement learning**.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
-state-of-the-art algorithms and tools. In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
+state-of-the-art algorithms and tools. 
+
+In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
 **Cognitive Systems**, **Machine Learning**, and **Deep Reinforcement Learning**. I also mentor several Bachelor and Master students for their research projects and theses.
 
 ---
@@ -192,7 +194,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         Hongyi Zhou, Fabian Otto, Onur Celik, <strong>Ge Li</strong>, Rudolf Lioutikov, Gerhard Neumann, 
-        in Conference on Robot Learning Workshop on Learning Effective Abstractions for Planning, 2023
+        in Conference on Robot Learning Workshop on Learning Effective Abstractions for Planning, Preprint 2023.
     </p>
     <p>
         See:
@@ -226,7 +228,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement Primitives.
     </p>
     <p>
-        <strong>Ge Li</strong>, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard Neumann, in IEEE Robotics and Automation Letters (RAL), 2023.
+        <strong>Ge Li</strong>, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard Neumann, in IEEE Robotics and Automation Letters, <strong>RAL 2023</strong>.
     </p>
     <p>
         See:
@@ -262,7 +264,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         Onur Celik, Dongzhuoran Zhou, <strong>Ge Li</strong>, Philipp Becker, Gerhard Neumann, 
-        in Conference on Robot Learning, 2021. 
+        in Conference on Robot Learning, <strong>CoRL 2021</strong>. 
     </p>
     <p>
         See:
