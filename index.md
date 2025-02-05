@@ -58,7 +58,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning
+        <strong>TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning</strong>
     </p>
     <p>
         <strong>Ge Li</strong>, Dong Tian, Hongyi Zhou, Xinkai Jiang, Rudolf Lioutikov, Gerhard Neumann, <strong>ICLR, 2025</strong>.
@@ -88,7 +88,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        DIME: Diffusion-Based Maximum Entropy Reinforcement Learning
+        <strong>DIME: Diffusion-Based Maximum Entropy Reinforcement Learning</strong>
     </p>
     <p>
         Onur Celik, Zechu Li, Denis Blessing, <strong>Ge Li</strong>, Daniel Palenicek, 
@@ -124,7 +124,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        Variational Distillation of Diffusion Policies into Mixture of Experts
+        <strong>Variational Distillation of Diffusion Policies into Mixture of Experts</strong>
     </p>
     <p>
         Hongyi Zhou, Denis Blessing, <strong>Ge Li</strong>, Onur Celik, Gerhard Neumann, Rudolf Lioutikov, <strong>NeurIPS, 2024</strong>.
@@ -162,7 +162,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        MaIL: Improving Imitation Learning with Selective State Space Models
+        <strong>MaIL: Improving Imitation Learning with Selective State Space Models</strong>
     </p>
     <p>
         Xiaogang Jia, Qian Wang, Atalay Donat, Bowen Xing, <strong>Ge Li</strong>, Hongyi Zhou, Onur Celik, Denis Blessing, Rudolf Lioutikov, Gerhard Neumann, <strong>CoRL, 2024</strong>.
@@ -193,7 +193,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic Reinforcement Learning.
+        <strong>Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic Reinforcement Learning.</strong>
     </p>
     <p>
         <strong>Ge Li</strong>, Hongyi Zhou, Dominik Roth, Serge Thilges, 
@@ -224,7 +224,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        MP3: Movement Primitive-Based (Re-) Planning Policies
+        <strong>MP3: Movement Primitive-Based (Re-) Planning Policies</strong>
     </p>
     <p>
         Hongyi Zhou, Fabian Otto, Onur Celik, <strong>Ge Li</strong>, Rudolf Lioutikov, Gerhard Neumann, 
@@ -258,7 +258,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement Primitives.
+        <strong>ProDMPs: A Unified Perspective on Dynamic and Probabilistic Movement Primitives.</strong>
     </p>
     <p>
         <strong>Ge Li</strong>, Zeqi Jin, Michael Volpp, Fabian Otto, Rudolf Lioutikov and Gerhard Neumann, in IEEE Robotics and Automation Letters, <strong>RAL 2023</strong>.
@@ -293,7 +293,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
   </div>
   <div style="flex: 2;">
     <p>
-        Specializing Versatile Skill Libraries using Local Mixture of Experts
+        <strong>Specializing Versatile Skill Libraries using Local Mixture of Experts</strong>
     </p>
     <p>
         Onur Celik, Dongzhuoran Zhou, <strong>Ge Li</strong>, Philipp Becker, Gerhard Neumann, 
