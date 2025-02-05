@@ -109,6 +109,44 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 <br><br>
 
 
+
+[//]: # (IRIS)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/IRIS_TT.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/IRIS_TT.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
+    </a>
+    <a href="/assets/images/IRIS_UNITREE.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/IRIS_UNITREE.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
+    </a>
+    <a href="/assets/images/IRIS_LIBERO.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/IRIS_LIBERO.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
+    </a>
+    <a href="/assets/images/IRIS_TWIN.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/IRIS_TWIN.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>IRIS: An Immersive Robot Interaction System</strong>
+    </p>
+    <p>
+        Xinkai Jiang, Qihao Yuan, Enes Ulas Dincer, Hongyi Zhou, <strong>Ge Li</strong>, Xueyin Li,
+        Julius Haag, Nicolas Schreiber, Kailai Li, Gerhard Neumann, Rudolf Lioutikov, 
+        <strong>Preprint, 2025</strong>.
+    </p>
+    <p>
+        See: TODO
+    </p>
+    <p>
+        We present IRIS, an immersive Robot Interaction System leveraging Extended Reality (XR), 
+        designed for robot data collection and interaction across multiple simulators, benchmarks, and real-world scenarios
+    </p>
+  </div>
+</div>
+
+<br><br>
+
 [//]: # (VDD)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
