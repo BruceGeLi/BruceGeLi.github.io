@@ -101,7 +101,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         <a href="https://arxiv.org/pdf/2502.02316" target="_blank" rel="noopener noreferrer">arxiv</a>
     </p>
     <p>
-        The SOTA diffusion-based online RL method that beats other cutting-edge diffusion and Gaussian policy methods.
+        The SOTA diffusion-based online RL method that outperforms other cutting-edge diffusion and Gaussian policy methods.
     </p>
   </div>
 </div>
