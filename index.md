@@ -114,17 +114,11 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
     <a href="/assets/images/IRIS_TT.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/IRIS_TT.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
+    <img src="/assets/images/IRIS_TT.gif" alt="IRIS_TT"/>
     </a>
     <a href="/assets/images/IRIS_UNITREE.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/IRIS_UNITREE.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
-    </a>
-    <a href="/assets/images/IRIS_LIBERO.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/IRIS_LIBERO.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
-    </a>
-    <a href="/assets/images/IRIS_TWIN.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/IRIS_TWIN.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
-    </a>
+    <img src="/assets/images/IRIS_UNITREE.gif" alt="IRIS_UNITREE"/>
+    </a> 
   </div>
   <div style="flex: 2;">
     <p>
