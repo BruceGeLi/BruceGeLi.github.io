@@ -75,6 +75,37 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 <br><br>
 
+
+[//]: # (DIME)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/dime_env.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/dime_env.png" alt="DIME" />
+    </a>
+    <a href="/assets/images/dime_exp.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/dime_exp.png" alt="DIME" />
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        DIME: Diffusion-Based Maximum Entropy Reinforcement Learning
+    </p>
+    <p>
+        Onur Celik, Zechu Li, Denis Blessing, <strong>Ge Li</strong>, Daniel Palenicek, Jan Peters, Georgia Chalvatzaki, Gerhard Neumann, <strong>Preprint, 2025</strong>.
+    </p>
+    <p>
+        See:
+        <a href="https://arxiv.org/pdf/2502.02316" target="_blank" rel="noopener noreferrer">arxiv</a>
+    </p>
+    <p>
+        The SOTA diffusion-based online RL method that beats other cutting-edge diffusion and Gaussian policy methods.
+    </p>
+  </div>
+</div>
+
+<br><br>
+
+
 [//]: # (VDD)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
