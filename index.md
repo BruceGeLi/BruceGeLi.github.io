@@ -130,7 +130,8 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         <strong>Preprint, 2025</strong>.
     </p>
     <p>
-        See: TODO
+        See:
+        <a href="https://arxiv.org/pdf/2502.03297" target="_blank" rel="noopener noreferrer">arxiv</a>
     </p>
     <p>
         We present IRIS, an immersive Robot Interaction System leveraging Extended Reality (XR), 
