@@ -44,15 +44,7 @@
     }
   }
   </script>
-
-  <!-- Render Emoji -->
-  <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
-  <script>
-    window.onload = function() {
-      twemoji.parse(document.body);
-    };
-  </script>
-
+  
   {% if site.show_frame %}
   <link rel="stylesheet" href="{{ '/assets/css/frame.css' | relative_url }}">
   {% else %}
