@@ -34,7 +34,7 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 
 # News
 
-Jan. 2025, my latest PhD work got accepted by ICLR 2025. I will present it in Singapore 🇸🇬.
+Jan. 2025, my latest work got accepted by ICLR 2025 as a Spotlight paper🔥. I will present it in Singapore 🇸🇬.
 
 Dec. 2024, I presented my co-authored work in NeurIPS 2024 in Vancouver, Canada 🇨🇦.
 
@@ -61,7 +61,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         <strong>TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning</strong>
     </p>
     <p>
-        <strong>Ge Li</strong>, Dong Tian, Hongyi Zhou, Xinkai Jiang, Rudolf Lioutikov, Gerhard Neumann, <strong>ICLR, 2025</strong>.
+        <strong>Ge Li</strong>, Dong Tian, Hongyi Zhou, Xinkai Jiang, Rudolf Lioutikov, Gerhard Neumann, <strong>ICLR, 2025 Spotlight🔥 (top 5%)</strong>.
     </p>
     <p>
         See:
