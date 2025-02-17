@@ -131,7 +131,8 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         See:
-        <a href="https://arxiv.org/pdf/2502.03297" target="_blank" rel="noopener noreferrer">arxiv</a>
+        <a href="https://arxiv.org/pdf/2502.03297" target="_blank" rel="noopener noreferrer">arxiv</a> |
+        <a href="https://intuitive-robots.github.io/iris-project-page/" target="_blank" rel="noopener noreferrer">Website</a>
     </p>
     <p>
         We present IRIS, an immersive Robot Interaction System leveraging Extended Reality (XR), 
