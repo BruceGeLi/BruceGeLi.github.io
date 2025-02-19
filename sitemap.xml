@@ -9,7 +9,13 @@
 
 <url>
   <loc>https://brucegeli.github.io/</loc>
-  <lastmod>2025-02-04T16:14:40+00:00</lastmod>
+  <lastmod>2025-02-19T12:08:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://brucegeli.github.io/TOP_ERL_ICLR25/</loc>
+  <lastmod>2025-02-19T12:10:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
