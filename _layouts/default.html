@@ -6,20 +6,22 @@
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <meta name="author" content="{{ page.author | default: site.author | escape }}">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="keywords" content="Ge Li, Bruce Ge Li, Ge Li Bruce, Bruce, KIT, Ge Li KIT, KIT Ge Li, Robot, Robotics, Reinforcement Learning, Machine Learning, AI, Artificial Intelligence, Deep Learning, Karlsruhe Institute of Technology, Movement Primitives, Episodic RL">
+  <meta name="description" content="Ge Li (Bruce) is a robotics researcher at KIT specializing in reinforcement learning, AI, and machine learning for robotic control.">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <!-- Open Graph / Twitter -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.description | default: site.description }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="Ge Li | Robotics & Reinforcement Learning Research">
+  <meta property="og:description" content="Researcher in Robotics, AI, and Machine Learning at KIT, specializing in Reinforcement Learning.">
+  <meta property="og:url" content="https://brucegeli.github.io/">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="{{ site.url }}/assets/images/og-image.jpg">
+  <meta property="og:image" content="https://brucegeli.github.io/assets/images/Profile.gif">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
-  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
-  <meta name="twitter:image" content="{{ site.url }}/assets/images/og-image.jpg">
+  <meta name="twitter:title" content="Ge Li | KIT | Robotics & Reinforcement Learning">
+  <meta name="twitter:description" content="Researcher in Robotics, AI, and Machine Learning at KIT.">
+  <meta name="twitter:image" content="https://brucegeli.github.io/assets/images/Profile.gif">
+
 
 
   <!-- Structured Data -->
@@ -28,22 +30,29 @@
     "@context": "https://schema.org",
     "@type": "Person",
     "name": "Ge Li",
-    "url": "https://brucegeli.github.io/",
-    "sameAs": [
-      "https://github.com/BruceGeLi",
-      "https://scholar.google.com/citations?user=ahqtghsAAAAJ&hl=en"
-    ],
-    "description": "Ge Li (Bruce)'s personal website showcasing projects in robotics, machine learning, and nanoindentation research.",
-    "image": "https://brucegeli.github.io/assets/images/profile-picture.jpg",
+    "alternateName": "Bruce",
     "jobTitle": "Researcher in Robotics and Machine Learning",
-    "alumniOf": "Karlsruhe Institute of Technology",
-    "worksFor": {
-      "@type": "Organization",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
       "name": "Karlsruhe Institute of Technology",
       "url": "https://www.kit.edu/"
+    },
+    "url": "https://brucegeli.github.io/",
+    "image": "https://brucegeli.github.io/assets/images/Profile.gif",
+    "description": "Ge Li (Bruce) is a researcher at KIT specializing in robotics, reinforcement learning, and AI.",
+    "sameAs": [
+      "https://github.com/BruceGeLi",
+      "https://scholar.google.com/citations?user=ahqtghsAAAAJ&hl=en",
+      "https://www.linkedin.com/in/geli-bruce/",
+    ],
+    "knowsAbout": ["Robotics", "Reinforcement Learning", "Machine Learning", "AI", "Deep Learning", "Artificial Intelligence"],
+    "alumniOf": {
+      "@type": "EducationalOrganization",
+      "name": "Karlsruhe Institute of Technology"
     }
   }
   </script>
+
   
   {% if site.show_frame %}
   <link rel="stylesheet" href="{{ '/assets/css/frame.css' | relative_url }}">
