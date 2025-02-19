@@ -1,10 +1,10 @@
 ---
-title: "This is Ge Li (Bruce)"
+title: "This is Ge Li (Bruce), 李戈"
 #permalink: /:title/
 layout: page
 ---
 
-<img src="/assets/images/Profile.gif" alt="Alt text" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
+<img src="/assets/images/Profile.gif" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
 I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
 
@@ -50,10 +50,10 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
     <a href="/assets/images/TOP_ERL_critic.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TOP_ERL_critic.png" alt="TCE" />
+    <img src="/assets/images/TOP_ERL_critic.png" alt="TOP_ERL_ICLR25" />
     </a>
     <a href="/assets/images/TOP_ERL_results.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TOP_ERL_results.png" alt="TCE" />
+    <img src="/assets/images/TOP_ERL_results.png" alt="TOP_ERL_ICLR25" />
     </a> 
   </div>
   <div style="flex: 2;">
@@ -150,7 +150,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
     <a href="/assets/images/VDD_overview.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/VDD_overview.png" alt="TCE" />
+    <img src="/assets/images/VDD_overview.png" alt="VDD" />
     </a>
     <a href="/assets/images/vdd_toy_task_animation.gif" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/vdd_toy_task_animation.gif" alt="VDD_toy" style="width: 52%; max-width: 300px;"/>
@@ -185,16 +185,16 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
     <a href="/assets/images/Mamba_architecture.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_architecture.png" alt="TCE" />
+    <img src="/assets/images/Mamba_architecture.png" alt="Mamba_robotics" />
     </a>
     <a href="/assets/images/Mamba_architecture2.png.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_architecture2.png" alt="TCE" />
+    <img src="/assets/images/Mamba_architecture2.png" alt="Mamba_robotics" />
     </a>
     <a href="/assets/images/Mamba_cups.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_cups.gif" alt="VDD_toy" style="width: 47.5%; max-width: 300px;"/>
+    <img src="/assets/images/Mamba_cups.gif" alt="Mamba_robotics" style="width: 47.5%; max-width: 300px;"/>
     </a>
     <a href="/assets/images/Mamba_insert.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_insert.gif" alt="VDD_toy" style="width: 48.5%; max-width: 300px;"/>
+    <img src="/assets/images/Mamba_insert.gif" alt="Mamba_robotics" style="width: 48.5%; max-width: 300px;"/>
     </a>
   </div>
   <div style="flex: 2;">
@@ -256,7 +256,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
     <a href="/assets/images/mp3_robots.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/mp3_robots.gif" alt="MP3" />
+    <img src="/assets/images/mp3_robots.gif" alt="MP3, movement primitives policy" />
     </a>
   </div>
   <div style="flex: 2;">
