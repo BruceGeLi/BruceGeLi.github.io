@@ -146,6 +146,37 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 <br><br>
 
+[//]: # (2D 3D Point Cloud + RGB)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/2d_3d_point_cloud.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/2d_3d_point_cloud.png" alt="PC_RGB_ALIGN"/>
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>Towards Fusing Point Cloud and Visual Representations for Imitation Learning</strong>
+    </p>
+    <p>
+        Atalay Donat, Xiaogang Jia, Xi Huang, Aleksandar Taranovic, Denis Blessing, <strong>Ge Li</strong>, Hongyi Zhou,
+        Hanyi Zhang, Rudolf Lioutikov, Gerhard Neumann, <strong>Preprint, 2025</strong>.
+    </p>
+    <p>
+        See:
+        <a href="https://www.arxiv.org/pdf/2502.12320" target="_blank" rel="noopener noreferrer">arxiv</a> |
+    </p>
+    <p>
+        We propose a novel imitation learning method that effectively fuses point clouds and RGB images by conditioning 
+        the point-cloud encoder on global and local image tokens using adaptive layer norm conditioning, preserving both 
+        geometric and contextual information and achieving state-of-the-art performance on the RoboCasa benchmark.
+    </p>
+  </div>
+</div>
+
+<br><br>
+
+
+
 [//]: # (VDD)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
