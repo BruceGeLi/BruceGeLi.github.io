@@ -163,7 +163,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         See:
-        <a href="https://www.arxiv.org/pdf/2502.12320" target="_blank" rel="noopener noreferrer">arxiv</a> |
+        <a href="https://www.arxiv.org/pdf/2502.12320" target="_blank" rel="noopener noreferrer">arxiv</a> 
     </p>
     <p>
         We propose a novel imitation learning method that effectively fuses point clouds and RGB images by conditioning 
