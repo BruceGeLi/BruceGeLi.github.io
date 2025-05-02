@@ -34,6 +34,8 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 
 # News
 
+May. 2025, one co-authored paper got accepted by ICML 2025 🇨🇦.
+
 Jan. 2025, my latest work got accepted by ICLR 2025 as a Spotlight paper🔥. I will present it in Singapore 🇸🇬.
 
 Dec. 2024, I presented my co-authored work in NeurIPS 2024 in Vancouver, Canada 🇨🇦.
@@ -97,7 +99,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         Onur Celik, Zechu Li, Denis Blessing, <strong>Ge Li</strong>, Daniel Palenicek, 
         <a href="https://scholar.google.com/citations?hl=en&user=-kIVAcAAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer"> Jan Peters</a>, 
         <a href="https://pearl-lab.com/people/georgia-chalvatzaki/" rel="noopener noreferrer"> Georgia Chalvatzaki</a>, 
-        Gerhard Neumann, <strong>Preprint, 2025</strong>.
+        Gerhard Neumann, <strong>ICML, 2025</strong>.
     </p>
     <p>
         See:
