@@ -34,9 +34,9 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 
 # News
 
-May. 2025, one co-authored paper got accepted by ICML 2025 🇨🇦.
+May 2025, one co-authored paper got accepted by ICML 2025 🇨🇦.
 
-Jan. 2025, my latest work got accepted by ICLR 2025 as a Spotlight paper🔥. I will present it in Singapore 🇸🇬.
+Jan. 2025, my latest work got accepted by ICLR 2025 as a Spotlight paper🔥. I presented it in Singapore 🇸🇬.
 
 Dec. 2024, I presented my co-authored work in NeurIPS 2024 in Vancouver, Canada 🇨🇦.
 
