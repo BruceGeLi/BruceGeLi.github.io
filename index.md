@@ -162,7 +162,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     <p>
         Xinkai Jiang, Qihao Yuan, Enes Ulas Dincer, Hongyi Zhou, <strong>Ge Li</strong>, Xueyin Li,
         Julius Haag, Nicolas Schreiber, Kailai Li, Gerhard Neumann, Rudolf Lioutikov, 
-        <strong>CoRL, 2025</strong>..
+        <strong>CoRL, 2025</strong>.
     </p>
     <p>
         See:
