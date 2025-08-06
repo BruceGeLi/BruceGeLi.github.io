@@ -104,7 +104,10 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         Gerhard Neumann, <strong>ICML, 2025</strong>.
     </p>
     <p>
-        See:
+        See: 
+        <a href="https://alrhub.github.io/dime-website/" target="_blank" rel="noopener noreferrer">Website</a> |
+        <a href="https://github.com/ALRhub/DIME" target="_blank" rel="noopener noreferrer">Code</a> |
+        <a href="https://openreview.net/forum?id=Aw6dBR7Vxj" target="_blank" rel="noopener noreferrer">OpenReview</a> |
         <a href="https://arxiv.org/pdf/2502.02316" target="_blank" rel="noopener noreferrer">arxiv</a>
     </p>
     <p>
