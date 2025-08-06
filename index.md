@@ -151,6 +151,39 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 <br><br>
 
+[//]: # (MORE-ERL)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/more_erl_pipe.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/more_erl_pipe.png" alt="MORE_ERL"/>
+    </a>
+    <a href="/assets/images/more_erl_exp.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/more_erl_exp.gif" alt="MORE_ERL_EXP"/>
+    </a> 
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>MoRe-ERL: Learning Motion Residuals using Episodic Reinforcement Learning</strong>
+    </p>
+    <p>
+        Xi Huang, Hongyi Zhou, Ge Li, Yucheng Tang, Weiran Liao, Björn Hein, <a href="https://h2t.iar.kit.edu/english/21_2372.php" rel="noopener noreferrer"> Tamim Asfour</a>, Rudolf Lioutikov
+        <strong>Preprint, 2025</strong>.
+    </p>
+    <p>
+        See:
+        <a href="https://www.arxiv.org/pdf/2508.01409" target="_blank" rel="noopener noreferrer">arxiv</a>
+    </p>
+    <p>
+        We propose MoRe-ERL, a framework that combines Episodic Reinforcement Learning (ERL) and residual learning, which refines
+        preplanned reference trajectories
+into safe, feasible, and efficient task-specific trajectories.
+    </p>
+  </div>
+</div>
+
+<br><br>
+
+
  [//]: # (BEAST)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
