@@ -166,7 +166,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         <strong>MoRe-ERL: Learning Motion Residuals using Episodic Reinforcement Learning</strong>
     </p>
     <p>
-        Xi Huang, Hongyi Zhou, Ge Li, Yucheng Tang, Weiran Liao, Björn Hein, <a href="https://h2t.iar.kit.edu/english/21_2372.php" rel="noopener noreferrer"> Tamim Asfour</a>, Rudolf Lioutikov
+        Xi Huang, Hongyi Zhou, <strong>Ge Li</strong>, Yucheng Tang, Weiran Liao, Björn Hein, <a href="https://h2t.iar.kit.edu/english/21_2372.php" rel="noopener noreferrer"> Tamim Asfour</a>, Rudolf Lioutikov
         <strong>Preprint, 2025</strong>.
     </p>
     <p>
