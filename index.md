@@ -115,36 +115,6 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 <br><br>
 
- [//]: # (BEAST)
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/beast_encoder_frame.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/beast_encoder_frame.png" alt="BEAST" />
-    </a>
-    <a href="/assets/images/beast_exp.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/beast_exp.gif" alt="BEAST" />
-    </a> 
-  </div>
-  <div style="flex: 2;">
-    <p>
-        <strong>BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning</strong>
-    </p>
-    <p>
-        Hongyi Zhou, Weiran Liao, Xi Huang, Yucheng Tang, Fabian Otto, Xiaogang Jia, Xinkai Jiang, Simon Hilber, <strong>Ge Li</strong>, Qian Wang, Ömer Erdinç Yağmurlu, Nils Blank, Moritz Reuss, Rudolf Lioutikov, <strong>Preprint, 2025</strong>.
-    </p>
-    <p>
-        See:
-        <a href="https://arxiv.org/pdf/2410.09536" target="_blank" rel="noopener noreferrer">arxiv</a>
-    </p>
-    <p>
-        We present BEAST, a novel action tokenizer that encodes action sequences into compact discrete or continuous tokens using B-spline.
-    </p>
-  </div>
-</div>
-
-<br><br>
-
-
 [//]: # (IRIS)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
@@ -177,6 +147,36 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 </div>
 
 <br><br>
+
+ [//]: # (BEAST)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/beast_encoder_frame.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/beast_encoder_frame.png" alt="BEAST" />
+    </a>
+    <a href="/assets/images/beast_exp.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/beast_exp.gif" alt="BEAST" />
+    </a> 
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning</strong>
+    </p>
+    <p>
+        Hongyi Zhou, Weiran Liao, Xi Huang, Yucheng Tang, Fabian Otto, Xiaogang Jia, Xinkai Jiang, Simon Hilber, <strong>Ge Li</strong>, Qian Wang, Ömer Erdinç Yağmurlu, Nils Blank, Moritz Reuss, Rudolf Lioutikov, <strong>Preprint, 2025</strong>.
+    </p>
+    <p>
+        See:
+        <a href="https://arxiv.org/pdf/2410.09536" target="_blank" rel="noopener noreferrer">arxiv</a>
+    </p>
+    <p>
+        We present BEAST, a novel action tokenizer that encodes action sequences into compact discrete or continuous tokens using B-spline.
+    </p>
+  </div>
+</div>
+
+<br><br>
+
 
 
 [//]: # (2D 3D Point Cloud + RGB)
