@@ -208,7 +208,39 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 <br><br>
 
+[//]: # (TCE)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
+    <a href="/assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/TCE_abstract.png" alt="TCE" />
+    </a>
+    <a href="/assets/images/TCE_cov.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/TCE_cov.png" alt="TCE" />
+    </a>
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic Reinforcement Learning.</strong>
+    </p>
+    <p>
+        <strong>Ge Li</strong>, Hongyi Zhou, Dominik Roth, Serge Thilges, 
+        Fabian Otto, Rudolf Lioutikov, Gerhard Neumann, <strong>ICLR, 2024</strong>.
+    </p>
+    <p>
+        See:
+        <a href="https://arxiv.org/abs/2401.11437" target="_blank" rel="noopener noreferrer">arxiv</a> | 
+        <a href="https://openreview.net/forum?id=mnipav175N" target="_blank" rel="noopener noreferrer">OpenReview</a> | 
+        <a href="https://github.com/BruceGeLi/TCE_RL" target="_blank" rel="noopener noreferrer">GitHub</a>   
+    </p>
+    <p>
+        We propose a novel RL framework that integrates step-based information into the
+        policy updates of Episodic RL, while preserving the broad exploration scope,
+        movement correlation modeling and trajectory smoothness.
+    </p>
+  </div>
+</div>
 
+<br><br>
 
 [//]: # (VDD)
 <div style="display: flex; align-items: flex-start;">
@@ -282,39 +314,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 <br><br>
 
-[//]: # (TCE)
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
-    <a href="/assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TCE_abstract.png" alt="TCE" />
-    </a>
-    <a href="/assets/images/TCE_cov.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TCE_cov.png" alt="TCE" />
-    </a>
-  </div>
-  <div style="flex: 2;">
-    <p>
-        <strong>Open the Black Box: Step-based Policy Updates for Temporally-Correlated Episodic Reinforcement Learning.</strong>
-    </p>
-    <p>
-        <strong>Ge Li</strong>, Hongyi Zhou, Dominik Roth, Serge Thilges, 
-        Fabian Otto, Rudolf Lioutikov, Gerhard Neumann, <strong>ICLR, 2024</strong>.
-    </p>
-    <p>
-        See:
-        <a href="https://arxiv.org/abs/2401.11437" target="_blank" rel="noopener noreferrer">arxiv</a> | 
-        <a href="https://openreview.net/forum?id=mnipav175N" target="_blank" rel="noopener noreferrer">OpenReview</a> | 
-        <a href="https://github.com/BruceGeLi/TCE_RL" target="_blank" rel="noopener noreferrer">GitHub</a>   
-    </p>
-    <p>
-        We propose a novel RL framework that integrates step-based information into the
-        policy updates of Episodic RL, while preserving the broad exploration scope,
-        movement correlation modeling and trajectory smoothness.
-    </p>
-  </div>
-</div>
 
-<br><br>
 
 [//]: # (MP3)
 <div style="display: flex; align-items: flex-start;">
