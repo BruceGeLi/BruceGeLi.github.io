@@ -34,6 +34,8 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 
 # News
 
+August 2025, one co-authored paper got accepted by CoRL 2025 🇰🇷.
+
 May 2025, one co-authored paper got accepted by ICML 2025 🇨🇦.
 
 Jan. 2025, my latest work got accepted by ICLR 2025 as a Spotlight paper🔥. I presented it in Singapore 🇸🇬.
@@ -160,7 +162,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     <p>
         Xinkai Jiang, Qihao Yuan, Enes Ulas Dincer, Hongyi Zhou, <strong>Ge Li</strong>, Xueyin Li,
         Julius Haag, Nicolas Schreiber, Kailai Li, Gerhard Neumann, Rudolf Lioutikov, 
-        <strong>Preprint, 2025</strong>.
+        <strong>CoRL, 2025</strong>..
     </p>
     <p>
         See:
