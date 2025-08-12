@@ -203,7 +203,7 @@ into safe, feasible, and efficient task-specific trajectories.
     </p>
     <p>
         See:
-        <a href="https://arxiv.org/pdf/2410.09536" target="_blank" rel="noopener noreferrer">arxiv</a>
+        <a href="https://arxiv.org/pdf/2506.06072" target="_blank" rel="noopener noreferrer">arxiv</a>
     </p>
     <p>
         We present BEAST, a novel action tokenizer that encodes action sequences into compact discrete or continuous tokens using B-spline.
