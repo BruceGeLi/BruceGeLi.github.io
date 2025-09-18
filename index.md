@@ -4,7 +4,7 @@ title: "This is Ge Li (Bruce), 李戈"
 layout: page
 ---
 
-<img src="/assets/images/bruce.jpg" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
+<img src="/assets/images/bruce.jpg" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 4px; margin-bottom: 20px;" width="40%" height="40%" />
 I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
 
