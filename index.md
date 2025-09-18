@@ -4,7 +4,7 @@ title: "This is Ge Li (Bruce), 李戈"
 layout: page
 ---
 
-<img src="/assets/images/Profile.gif" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
+<img src="/assets/images/bruce.jpg" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 10px; margin-bottom: 20px;" width="40%" height="40%" />
 I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
 
@@ -33,6 +33,7 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 ---
 
 # News
+Sept. 2025, two co-authored paper got accepted by NeurIPS 2025 🇺🇸.
 
 August 2025, one co-authored paper got accepted by IEEE-RAL 2025.
 
@@ -120,6 +121,66 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 
 <br><br>
 
+ [//]: # (BEAST)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/beast_encoder_frame.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/beast_encoder_frame.png" alt="BEAST" />
+    </a>
+    <a href="/assets/images/beast_exp.gif" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/beast_exp.gif" alt="BEAST" />
+    </a> 
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning</strong>
+    </p>
+    <p>
+        Hongyi Zhou, Weiran Liao, Xi Huang, Yucheng Tang, Fabian Otto, Xiaogang Jia, Xinkai Jiang, Simon Hilber, <strong>Ge Li</strong>, Qian Wang, Ömer Erdinç Yağmurlu, Nils Blank, Moritz Reuss, Rudolf Lioutikov, <strong>NeurIPS, 2025</strong>.
+    </p>
+    <p>
+        See:
+        <a href="https://arxiv.org/pdf/2506.06072" target="_blank" rel="noopener noreferrer">arxiv</a>
+    </p>
+    <p>
+        We present BEAST, a novel action tokenizer that encodes action sequences into compact discrete or continuous tokens using B-spline.
+    </p>
+  </div>
+</div>
+
+<br><br>
+
+
+ [//]: # (PointMAP)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/point_map_policy_architecture.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/point_map_policy_architecture.png" alt="Point Map Policy" />
+    </a>
+    <a href="/assets/images/point_map_policy_architecture2.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/point_map_policy_architecture2.png" alt="Point Map Policy" />
+    </a> 
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning</strong>
+    </p>
+    <p>
+        Xiaogang Jia, Qian Wang, Anrui Wang, Han A. Wang, Balázs Gyenes, Emiliyan Gospodinov, Xinkai Jiang, <strong>Ge Li</strong>, Hongyi Zhou, Weiran Liao, Xi Huang, Maximilian Beck, Moritz Reuss, Rudolf Lioutikov, Gerhard Neumann, <strong>NeurIPS, 2025</strong>.
+    </p>
+    <p>
+        See: 
+        <a href="https://point-map.github.io/Point-Map/" target="_blank" rel="noopener noreferrer">Website</a>
+    </p>
+    <p>
+        We present PointMapPolicy, a multi-modal imitation learning method that conditions diffusion policies on point maps.
+    </p>
+  </div>
+</div>
+
+<br><br>
+
+
 [//]: # (IRIS)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
@@ -180,36 +241,6 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
         We propose MoRe-ERL, a framework that combines Episodic Reinforcement Learning (ERL) and residual learning, which refines
         preplanned reference trajectories
 into safe, feasible, and efficient task-specific trajectories.
-    </p>
-  </div>
-</div>
-
-<br><br>
-
-
- [//]: # (BEAST)
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/beast_encoder_frame.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/beast_encoder_frame.png" alt="BEAST" />
-    </a>
-    <a href="/assets/images/beast_exp.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/beast_exp.gif" alt="BEAST" />
-    </a> 
-  </div>
-  <div style="flex: 2;">
-    <p>
-        <strong>BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning</strong>
-    </p>
-    <p>
-        Hongyi Zhou, Weiran Liao, Xi Huang, Yucheng Tang, Fabian Otto, Xiaogang Jia, Xinkai Jiang, Simon Hilber, <strong>Ge Li</strong>, Qian Wang, Ömer Erdinç Yağmurlu, Nils Blank, Moritz Reuss, Rudolf Lioutikov, <strong>Preprint, 2025</strong>.
-    </p>
-    <p>
-        See:
-        <a href="https://arxiv.org/pdf/2506.06072" target="_blank" rel="noopener noreferrer">arxiv</a>
-    </p>
-    <p>
-        We present BEAST, a novel action tokenizer that encodes action sequences into compact discrete or continuous tokens using B-spline.
     </p>
   </div>
 </div>
@@ -354,6 +385,31 @@ into safe, feasible, and efficient task-specific trajectories.
 <br><br>
 
 
+ [//]: # (BMP)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
+    <a href="/assets/images/bspline.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/bspline.png" alt="Point Map Policy" />
+    </a> 
+  </div>
+  <div style="flex: 2;">
+    <p>
+        <strong>BMP: Bridging the Gap between B-Spline and Movement Primitives</strong>
+    </p>
+    <p>
+        Weiran Liao, <strong>Ge Li</strong>, Hongyi Zhou, Rudolf Lioutikov, Gerhard Neumann, <strong>in CoRL 2024 Workshop </strong> on Learning Effective Abstractions for Planning.
+    </p>
+    <p>
+        See: 
+        <a href="https://arxiv.org/pdf/2411.10336" target="_blank" rel="noopener noreferrer">arxiv</a>
+    </p>
+    <p>
+        This work introduces B-spline Movement Primitives (BMPs), a new Movement Primitive (MP) variant that leverages B-splines for motion representation. 
+    </p>
+  </div>
+</div>
+
+<br><br>
 
 [//]: # (MP3)
 <div style="display: flex; align-items: flex-start;">
@@ -368,7 +424,7 @@ into safe, feasible, and efficient task-specific trajectories.
     </p>
     <p>
         Hongyi Zhou, Fabian Otto, Onur Celik, <strong>Ge Li</strong>, Rudolf Lioutikov, Gerhard Neumann, 
-        in Conference on Robot Learning Workshop on Learning Effective Abstractions for Planning, Preprint 2023.
+        <strong>in CoRL 2023 Workshop </strong> on Learning Effective Abstractions for Planning.
     </p>
     <p>
         See:
