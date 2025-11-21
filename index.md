@@ -5,7 +5,7 @@ layout: page
 ---
 
 <img src="/assets/images/bruce.jpg" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 4px; margin-bottom: 20px;" width="40%" height="40%" />
-I am a Ph.D. candidate in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
+I am a researcher in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
 
 I focus on advancing the learning and representation of robotic motion policies, 
@@ -20,7 +20,7 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 
 # Education & Experience
 
-2020 - Present, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Ph.D. Candidate, Computer Science**.
+2020 - 2025, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Doctor of Philosophy, Computer Science**.
 
 2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, **Master's Degree**, Computer-Aided Mechanical Engineering.
 
@@ -33,7 +33,9 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 ---
 
 # News
-Sept. 2025, two co-authored paper got accepted by NeurIPS 2025 🇺🇸.
+Nov. 2025, I have successfully passed my PhD defense and gained my Doctor's degree 🎉. 
+
+Sept. 2025, two co-authored papers got accepted by NeurIPS 2025 🇺🇸.
 
 August 2025, one co-authored paper got accepted by IEEE-RAL 2025.
 
