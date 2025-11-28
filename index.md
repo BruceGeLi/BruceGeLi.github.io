@@ -20,7 +20,7 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 
 # Education & Experience
 
-2020 - 2025, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Doctor of Philosophy, Computer Science**.
+2020 - 2025, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Doctor's Degree**, Computer Science.
 
 2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, **Master's Degree**, Computer-Aided Mechanical Engineering.
 
@@ -33,7 +33,7 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 ---
 
 # News
-Nov. 2025, I have successfully passed my PhD defense and gained my Doctor's degree 🎉. 
+Nov. 2025, I have successfully passed my PhD defense and will get my Doctor's degree 🎉. 
 
 Sept. 2025, two co-authored papers got accepted by NeurIPS 2025 🇺🇸.
 
