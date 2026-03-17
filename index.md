@@ -144,6 +144,9 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         See:
+        <a href="https://intuitive-robots.github.io/beast_website/" target="_blank" rel="noopener noreferrer">Website</a> |
+        <a href="https://github.com/intuitive-robots/beast_calvin" target="_blank" rel="noopener noreferrer">Code</a> |
+        <a href="https://openreview.net/forum?id=rQCl1sf62w" target="_blank" rel="noopener noreferrer">OpenReview</a> |
         <a href="https://arxiv.org/pdf/2506.06072" target="_blank" rel="noopener noreferrer">arxiv</a>
     </p>
     <p>
@@ -174,7 +177,10 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         See: 
-        <a href="https://point-map.github.io/Point-Map/" target="_blank" rel="noopener noreferrer">Website</a>
+        <a href="https://point-map.github.io/Point-Map/" target="_blank" rel="noopener noreferrer">Website</a>   |
+        <!-- <a href="https://github.com/intuitive-robots/beast_calvin" target="_blank" rel="noopener noreferrer">Code</a> | -->
+        <a href="https://openreview.net/forum?id=ZR2mdBrhJX" target="_blank" rel="noopener noreferrer">OpenReview</a> 
+        <!-- <a href="https://arxiv.org/pdf/2506.06072" target="_blank" rel="noopener noreferrer">arxiv</a> -->
     </p>
     <p>
         We present PointMapPolicy, a multi-modal imitation learning method that conditions diffusion policies on point maps.
@@ -206,8 +212,10 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         See:
-        <a href="https://arxiv.org/pdf/2502.03297" target="_blank" rel="noopener noreferrer">arxiv</a> |
-        <a href="https://intuitive-robots.github.io/iris-project-page/" target="_blank" rel="noopener noreferrer">Website</a>
+        <a href="https://intuitive-robots.github.io/iris-project-page/" target="_blank" rel="noopener noreferrer">Website</a> |
+        <a href="https://github.com/intuitive-robots/SimPublisher" target="_blank" rel="noopener noreferrer">Code</a> |
+        <a href="https://openreview.net/forum?id=b2mXmmGX8E#discussion" target="_blank" rel="noopener noreferrer">OpenReview</a> |
+        <a href="https://arxiv.org/pdf/2502.03297" target="_blank" rel="noopener noreferrer">arxiv</a> |        
     </p>
     <p>
         We present IRIS, an immersive Robot Interaction System leveraging Extended Reality (XR), 
@@ -239,7 +247,7 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
     </p>
     <p>
         See:
-        <a href="https://www.arxiv.org/pdf/2508.01409" target="_blank" rel="noopener noreferrer">arxiv</a>
+        <a href="https://ieeexplore.ieee.org/document/11153055" target="_blank" rel="noopener noreferrer">IEEE</a>
     </p>
     <p>
         We propose MoRe-ERL, a framework that combines Episodic Reinforcement Learning (ERL) and residual learning, which refines
