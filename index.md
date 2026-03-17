@@ -33,7 +33,7 @@ In addition to my research, I serve as a teaching assistant at KIT, contributing
 ---
 
 # News
-March 2026, I received the Robotics Institute Germany (RIG) Outstanding Doctoral Thesis Award 🎉 (Two winners from 27 nominations across 16 German institutions, no ranking)
+March 2026, I received the Robotics Institute Germany (RIG) Outstanding Doctoral Thesis Award 🎉 and presented my PhD research at the 2nd German Robotics Conference (GRC)🔥
 
 Nov. 2025, I have successfully passed my PhD defense and will get my Doctor's degree 🎉. 
 
