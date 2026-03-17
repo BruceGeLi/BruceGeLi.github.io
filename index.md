@@ -4,7 +4,7 @@ title: "This is Ge Li (Bruce), 李戈"
 layout: page
 ---
 
-<img src="/assets/images/bruce.jpg" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 4px; margin-bottom: 20px;" width="40%" height="40%" />
+<img src="./assets/images/bruce.jpg" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 4px; margin-bottom: 20px;" width="40%" height="40%" />
 I am a researcher in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
 <a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
 
@@ -60,11 +60,11 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 [//]: # (TOP-ERL)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/TOP_ERL_critic.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TOP_ERL_critic.png" alt="TOP_ERL_ICLR25" />
+    <a href="./assets/images/TOP_ERL_critic.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/TOP_ERL_critic.png" alt="TOP_ERL_ICLR25" />
     </a>
-    <a href="/assets/images/TOP_ERL_results.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TOP_ERL_results.png" alt="TOP_ERL_ICLR25" />
+    <a href="./assets/images/TOP_ERL_results.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/TOP_ERL_results.png" alt="TOP_ERL_ICLR25" />
     </a> 
   </div>
   <div style="flex: 2;">
@@ -93,11 +93,11 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 [//]: # (DIME)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/dime_env.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/dime_env.png" alt="DIME" />
+    <a href="./assets/images/dime_env.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/dime_env.png" alt="DIME" />
     </a>
-    <a href="/assets/images/dime_exp.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/dime_exp.png" alt="DIME" />
+    <a href="./assets/images/dime_exp.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/dime_exp.png" alt="DIME" />
     </a>
   </div>
   <div style="flex: 2;">
@@ -128,11 +128,11 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
  [//]: # (BEAST)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/beast_encoder_frame.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/beast_encoder_frame.png" alt="BEAST" />
+    <a href="./assets/images/beast_encoder_frame.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/beast_encoder_frame.png" alt="BEAST" />
     </a>
-    <a href="/assets/images/beast_exp.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/beast_exp.gif" alt="BEAST" />
+    <a href="./assets/images/beast_exp.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/beast_exp.gif" alt="BEAST" />
     </a> 
   </div>
   <div style="flex: 2;">
@@ -158,11 +158,11 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
  [//]: # (PointMAP)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/point_map_policy_architecture.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/point_map_policy_architecture.png" alt="Point Map Policy" />
+    <a href="./assets/images/point_map_policy_architecture.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/point_map_policy_architecture.png" alt="Point Map Policy" />
     </a>
-    <a href="/assets/images/point_map_policy_architecture2.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/point_map_policy_architecture2.png" alt="Point Map Policy" />
+    <a href="./assets/images/point_map_policy_architecture2.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/point_map_policy_architecture2.png" alt="Point Map Policy" />
     </a> 
   </div>
   <div style="flex: 2;">
@@ -188,11 +188,11 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 [//]: # (IRIS)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/IRIS_TT.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/IRIS_TT.gif" alt="IRIS_TT"/>
+    <a href="./assets/images/IRIS_TT.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/IRIS_TT.gif" alt="IRIS_TT"/>
     </a>
-    <a href="/assets/images/IRIS_UNITREE.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/IRIS_UNITREE.gif" alt="IRIS_UNITREE"/>
+    <a href="./assets/images/IRIS_UNITREE.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/IRIS_UNITREE.gif" alt="IRIS_UNITREE"/>
     </a> 
   </div>
   <div style="flex: 2;">
@@ -221,11 +221,11 @@ May 2024, I presented my PhD work in ICLR 2024 in Vienna, Austria 🇦🇹.
 [//]: # (MORE-ERL)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/more_erl_pipe.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/more_erl_pipe.png" alt="MORE_ERL"/>
+    <a href="./assets/images/more_erl_pipe.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/more_erl_pipe.png" alt="MORE_ERL"/>
     </a>
-    <a href="/assets/images/more_erl_exp.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/more_erl_exp.gif" alt="MORE_ERL_EXP"/>
+    <a href="./assets/images/more_erl_exp.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/more_erl_exp.gif" alt="MORE_ERL_EXP"/>
     </a> 
   </div>
   <div style="flex: 2;">
@@ -256,8 +256,8 @@ into safe, feasible, and efficient task-specific trajectories.
 [//]: # (2D 3D Point Cloud + RGB)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/2d_3d_point_cloud.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/2d_3d_point_cloud.png" alt="PC_RGB_ALIGN"/>
+    <a href="./assets/images/2d_3d_point_cloud.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/2d_3d_point_cloud.png" alt="PC_RGB_ALIGN"/>
     </a>
   </div>
   <div style="flex: 2;">
@@ -285,11 +285,11 @@ into safe, feasible, and efficient task-specific trajectories.
 [//]: # (TCE)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
-    <a href="/assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TCE_abstract.png" alt="TCE" />
+    <a href="./assets/images/TCE_abstract.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/TCE_abstract.png" alt="TCE" />
     </a>
-    <a href="/assets/images/TCE_cov.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/TCE_cov.png" alt="TCE" />
+    <a href="./assets/images/TCE_cov.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/TCE_cov.png" alt="TCE" />
     </a>
   </div>
   <div style="flex: 2;">
@@ -319,14 +319,14 @@ into safe, feasible, and efficient task-specific trajectories.
 [//]: # (VDD)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/VDD_overview.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/VDD_overview.png" alt="VDD" />
+    <a href="./assets/images/VDD_overview.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/VDD_overview.png" alt="VDD" />
     </a>
-    <a href="/assets/images/vdd_toy_task_animation.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/vdd_toy_task_animation.gif" alt="VDD_toy" style="width: 52%; max-width: 300px;"/>
+    <a href="./assets/images/vdd_toy_task_animation.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/vdd_toy_task_animation.gif" alt="VDD_toy" style="width: 52%; max-width: 300px;"/>
     </a>
-    <a href="/assets/images/vdd_sort_6.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/vdd_sort_6.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
+    <a href="./assets/images/vdd_sort_6.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/vdd_sort_6.gif" alt="VDD_toy" style="width: 46%; max-width: 300px;"/>
     </a>
   </div>
   <div style="flex: 2;">
@@ -354,17 +354,17 @@ into safe, feasible, and efficient task-specific trajectories.
 [//]: # (Mamba)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/Mamba_architecture.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_architecture.png" alt="Mamba_robotics" />
+    <a href="./assets/images/Mamba_architecture.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/Mamba_architecture.png" alt="Mamba_robotics" />
     </a>
-    <a href="/assets/images/Mamba_architecture2.png.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_architecture2.png" alt="Mamba_robotics" />
+    <a href="./assets/images/Mamba_architecture2.png.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/Mamba_architecture2.png" alt="Mamba_robotics" />
     </a>
-    <a href="/assets/images/Mamba_cups.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_cups.gif" alt="Mamba_robotics" style="width: 47.5%; max-width: 300px;"/>
+    <a href="./assets/images/Mamba_cups.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/Mamba_cups.gif" alt="Mamba_robotics" style="width: 47.5%; max-width: 300px;"/>
     </a>
-    <a href="/assets/images/Mamba_insert.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/Mamba_insert.gif" alt="Mamba_robotics" style="width: 48.5%; max-width: 300px;"/>
+    <a href="./assets/images/Mamba_insert.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/Mamba_insert.gif" alt="Mamba_robotics" style="width: 48.5%; max-width: 300px;"/>
     </a>
   </div>
   <div style="flex: 2;">
@@ -392,8 +392,8 @@ into safe, feasible, and efficient task-specific trajectories.
  [//]: # (BMP)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; justify-content: space-between; padding-top: 10px; align-items: flex-start;">
-    <a href="/assets/images/bspline.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/bspline.png" alt="Point Map Policy" />
+    <a href="./assets/images/bspline.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/bspline.png" alt="Point Map Policy" />
     </a> 
   </div>
   <div style="flex: 2;">
@@ -418,8 +418,8 @@ into safe, feasible, and efficient task-specific trajectories.
 [//]: # (MP3)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
-    <a href="/assets/images/mp3_robots.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/mp3_robots.gif" alt="MP3, movement primitives policy" />
+    <a href="./assets/images/mp3_robots.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/mp3_robots.gif" alt="MP3, movement primitives policy" />
     </a>
   </div>
   <div style="flex: 2;">
@@ -449,11 +449,11 @@ into safe, feasible, and efficient task-specific trajectories.
 [//]: # (ProDMP)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
-    <a href="/assets/images/robot_pick.gif" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/robot_pick.gif" alt="ProDMP" />
+    <a href="./assets/images/robot_pick.gif" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/robot_pick.gif" alt="ProDMP" />
     </a>
-    <a href="/assets/images/prodmp_structure.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/prodmp_structure.png" alt="ProDMP" />
+    <a href="./assets/images/prodmp_structure.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/prodmp_structure.png" alt="ProDMP" />
     </a>
   </div>
   <div style="flex: 2;">
@@ -484,11 +484,11 @@ into safe, feasible, and efficient task-specific trajectories.
 [//]: # (SVSL)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px; padding-top: 10px;">
-    <a href="/assets/images/svsl.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/svsl.png" alt="SVSL"/> 
+    <a href="./assets/images/svsl.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/svsl.png" alt="SVSL"/> 
     </a>
-    <a href="/assets/images/svsl_obj.png" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/svsl_obj.png" alt="SVSL"/> 
+    <a href="./assets/images/svsl_obj.png" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/images/svsl_obj.png" alt="SVSL"/> 
     </a>
   </div>
   <div style="flex: 2;">
