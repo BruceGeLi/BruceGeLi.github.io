@@ -21,11 +21,11 @@ I also served as a teaching assistant at KIT, contributing to the courses
 ---
 
 # Education & Experience
-Since June 2026, <a href="https://www.intrinsic.ai/" target="_blank" rel="noopener noreferrer">Intrinsic, an AI robotics group of Google, Germany</a>, **Research Scientist**, Robot Manipulation.
+Since June 2026, <a href="https://www.intrinsic.ai/" target="_blank" rel="noopener noreferrer">Intrinsic, an AI robotics group of Google</a>, Germany, **Research Scientist**, Robot Manipulation.
 
-2020 - 2025, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Doctor's Degree**, Computer Science.
+2020 - 2025, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology</a>, Germany, **Doctor's Degree**, Computer Science.
 
-2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, **Master's Degree**, Computer-Aided Mechanical Engineering.
+2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University</a>, Germany, **Master's Degree**, Computer-Aided Mechanical Engineering.
 
 2018 - 2019, <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer">Max Planck Institute for Intelligent Systems</a>, Germany, Robot Research Intern.
 
