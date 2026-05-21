@@ -5,35 +5,43 @@ layout: page
 ---
 
 <img src="./assets/images/bruce.jpg" alt="Ge Li (Bruce)" style="float: left; margin-right: 30px; margin-top: 4px; margin-bottom: 20px;" width="40%" height="40%" />
-I am a researcher in machine learning and robotics at the Karlsruhe Institute of Technology (KIT), Germany. My supervisors are <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
-<a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
+Hi there! I am a Research Scientist in machine learning and robotics at Google Intrinsic in Munich, Germany, where I collaborate with <a href="https://scholar.google.com/citations?user=YGQs1AYAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Stefan Schaal</a> and
+<a href="https://www.andre-gaschler.de/" target="_blank" rel="noopener noreferrer">Dr. Andre Gaschler</a>.
 
-I focus on advancing the learning and representation of robotic motion policies, 
-with a particular emphasis on their applications in **imitation and reinforcement learning**.
+My research focuses on advancing the learning and representation of robotic motion policies, 
+with a particular emphasis on **imitation learning and reinforcement learning**.
 I aim to improve **model capacity, learning efficiency**, and **interpretability** by leveraging
 state-of-the-art algorithms and tools. 
 
-In addition to my research, I serve as a teaching assistant at KIT, contributing to courses 
-**Cognitive Systems**, **Machine Learning**, and **Deep Reinforcement Learning**. I also mentor several Bachelor and Master students for their research projects and theses.
+Before joining Intrinsic, I received my PhD from the Karlsruhe Institute of Technology (KIT), Germany, where I was supervised by <a href="https://scholar.google.de/citations?user=GL360kMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Gerhard Neumann</a> and
+<a href="https://rudolf.intuitive-robots.net/" target="_blank" rel="noopener noreferrer">Prof. Rudolf Lioutikov</a>.
+I also served as a teaching assistant at KIT, contributing to the courses 
+**Cognitive Systems**, **Machine Learning**, and **Deep Reinforcement Learning**. I mentored several Bachelor’s and Master’s students on research projects and theses.
 
 ---
 
 # Education & Experience
+Since June 2026, <a href="https://www.intrinsic.ai/" target="_blank" rel="noopener noreferrer">Intrinsic, an AI robotics group of Google, Germany</a>, **Research Scientist**, Robot Manipulation.
 
 2020 - 2025, <a href="https://www.kit.edu/english/" target="_blank" rel="noopener noreferrer">Karlsruhe Institute of Technology, Germany</a>, **Doctor's Degree**, Computer Science.
 
 2015 - 2019, <a href="https://www.rwth-aachen.de/" target="_blank" rel="noopener noreferrer">RWTH Aachen University, Germany</a>, **Master's Degree**, Computer-Aided Mechanical Engineering.
 
-2011 - 2015, <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a>, **Bachelor's Degree**, Mechanical Engineering. 
-
 2018 - 2019, <a href="https://is.mpg.de/" target="_blank" rel="noopener noreferrer">Max Planck Institute for Intelligent Systems</a>, Germany, Robot Research Intern.
 
 2018, <a href="https://www.kaercher.com/int/" target="_blank" rel="noopener noreferrer">Alfred Kärcher SE & Co. KG</a>, Germany, Robot Software Engineer Intern.
 
+2011 - 2015, <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a>, **Bachelor's Degree**, Mechanical Engineering. 
+
+
 ---
 
 # News
-March 2026, I received the Robotics Institute Germany (RIG) Outstanding Doctoral Thesis Award 🎉 and presented my PhD research at the 2nd German Robotics Conference (GRC)🔥
+June 2026, I will be joining Google Intrinsic as a Research Scientist in robot manipulation 🦾.
+
+May 2025, one co-authored paper got accepted by ICML 2026 🇰🇷.
+
+March 2026, I received the Robotics Institute Germany (RIG) Outstanding Doctoral Thesis Award 🎉 and presented my PhD research at the 2nd German Robotics Conference (GRC) 🇩🇪.
 
 Nov. 2025, I have successfully passed my PhD defense and will get my Doctor's degree 🎉. 
 
